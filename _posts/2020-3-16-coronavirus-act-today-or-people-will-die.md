@@ -3,6 +3,7 @@ layout: post
 title: कोरोनवायरस: त्वरित कार्रवाई क्यों ज़रूरी है!
 ---
 
+त्वरित कार्रवाई क्यों ज़रूरी ह त्वरित कार्रवाई क्यों ज़रूरी ह त्वरित कार्रवाई क्यों ज़रूरी ह त्वरित कार्रवाई क्यों ज़रूरी ह
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
