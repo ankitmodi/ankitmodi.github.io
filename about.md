@@ -6,7 +6,7 @@ permalink: /about/
 
 Technolgy. Healthcare. Books. Music. Cricket. Football.
 
-Yeah - that's pretty much sums me up.
+Yeah - that pretty much sums me up.
 
 ### Contact me
 
