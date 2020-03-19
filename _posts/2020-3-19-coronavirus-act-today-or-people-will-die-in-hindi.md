@@ -2,9 +2,6 @@
 layout: post
 title: कोरोनवायरस - त्वरित कार्रवाई क्यों ज़रूरी है!
 ---
-नोट : ये Tomas Pueyo द्वारा 13 मार्च 2020 को प्रकाशित [शानदार रिसर्च](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) का हिंदी अनुवाद है।
-
-Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) published on 13th Mar'20.
 
 कोरोनावायरस से सम्बंधित जो कुछ भी हो रहा है, उसके साथ यह निर्णय लेना बहुत कठिन हो सकता है कि हम आज क्या कर सकते हैं। क्या आपको अधिक जानकारी की प्रतीक्षा करनी चाहिए? आज कुछ करना चाहिए ? अगर हाँ तो क्या?
 
@@ -301,3 +298,14 @@ Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://
 | ![](https://miro.medium.com/max/1400/0*HXyxB6TR_c3IAky6) |
 |:--:|
 | Satellite images show Behesht Masoumeh cemetery in the Iranian city of Qom. Photograph: ©2020 Maxar Technologies. Via [The Guardian](https://www.theguardian.com/world/2020/mar/12/coronavirus-iran-mass-graves-qom) and the [The New York Times](https://www.nytimes.com/video/world/middleeast/100000007011860/iran-coronavirus-outbreak.html). |
+
+
+
+
+
+
+
+  
+नोट : ये Tomas Pueyo द्वारा 13 मार्च 2020 को प्रकाशित [शानदार रिसर्च](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) का हिंदी अनुवाद है।
+
+Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) published on 13th Mar'20.
