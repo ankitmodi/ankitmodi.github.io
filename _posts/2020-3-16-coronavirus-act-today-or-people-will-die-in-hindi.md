@@ -2,9 +2,9 @@
 layout: post
 title: कोरोनवायरस - त्वरित कार्रवाई क्यों ज़रूरी है!
 ---
-नोट : [ये Tomas Pueyo द्वारा 13 मार्च 2020 को लिखे गए शानदार रिसर्च का हिंदी अनुवाद है।](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank)
+नोट : ये Tomas Pueyo द्वारा 13 मार्च 2020 को प्रकाशित [शानदार रिसर्च]((https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank)) का हिंदी अनुवाद है।
 
-Note: [This is a translation of the excellently researched blog by Tomas Pueyo written on 13th Mar'20.](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank)
+Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) published on 13th Mar'20.
 
 कोरोनावायरस से सम्बंधित जो कुछ भी हो रहा है, उसके साथ यह निर्णय लेना बहुत कठिन हो सकता है कि हम आज क्या कर सकते हैं। क्या आपको अधिक जानकारी की प्रतीक्षा करनी चाहिए? आज कुछ करना चाहिए ? अगर हाँ तो क्या?
 
