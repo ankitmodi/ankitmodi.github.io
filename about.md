@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Technolgy. Healthcare. Books. Music. Cricket. Football.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Yeah - that's pretty much sums me up.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[a.modi1422@gmail.com](mailto:a.modi1422@gmail.com)
