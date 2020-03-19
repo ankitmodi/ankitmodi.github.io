@@ -2,7 +2,7 @@
 layout: post
 title: कोरोनवायरस - त्वरित कार्रवाई क्यों ज़रूरी है!
 ---
-नोट : ये Tomas Pueyo द्वारा 13 मार्च 2020 को प्रकाशित [शानदार रिसर्च]((https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank)) का हिंदी अनुवाद है।
+नोट : ये Tomas Pueyo द्वारा 13 मार्च 2020 को प्रकाशित [शानदार रिसर्च](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) का हिंदी अनुवाद है।
 
 Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca?target=_blank) published on 13th Mar'20.
 
