@@ -14,7 +14,13 @@ Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://
 * आपको क्या करना चाहिये?
 * ये सब कब होगा ?
 
-
-<!-- ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->
+इस ब्लॉग को पढ़ने के बाद आप ये समझ जाएंगे कि :
+- कोरोनोवायरस हमारी तरफ आ रहा है।
+- यह एक घातक गति से आ रहा है:  शुरू में धीरे-धीरे, और फिर अचानक तेज़।
+- इसका आना अब दिनों की बात है। शायद कुछ हफ्ते ।
+- जब यह होगा, तो हमारी स्वास्थ्य सेवा प्रणाली चरमरा सकती है |
+- हमारे साथी नागरिकों का इलाज अस्पतालों के हॉल्स में करना पड़ेगा।
+- स्वास्थ्यकर्मी शरीर तोड़ने वाले थकावट का शिकार हो जाएंगे। कुछ मर भी सकते हैं|
+- उन्हें यह तय करना होगा कि किस मरीज को ऑक्सीजन देनी है और किनको मरने देना है।
+- इसे रोकने का एकमात्र तरीका सामाजिक अलगाव को आज से ही शुरू करना है। कल नहीं। आज।
+- इसका मतलब है अधिक अधिक लोगों को पे ही रखना। आज से ही।
