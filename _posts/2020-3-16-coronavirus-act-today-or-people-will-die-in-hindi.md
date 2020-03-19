@@ -35,6 +35,6 @@ Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://
 # 1. आपके क्षेत्र में कोरोनावायरस के कितने मामले होंगे?
 
 ![](https://miro.medium.com/max/5040/1*isAkYa68DkC-EgRdx_efZg.png)
-* [Source](https://miro.medium.com/max/5040/1*isAkYa68DkC-EgRdx_efZg.png)
+*[Source](https://miro.medium.com/max/5040/1*isAkYa68DkC-EgRdx_efZg.png)
 
 चीन में कुल मामलों में तब तक तेजी से वृद्धि हुई जब तक इसे नियंत्रित नहीं किया गया। लेकिन फिर, यह बाहर लीक हो गयी, और एक ऐसी महामारी का रूप ले लिया जिसे रोकना मुश्किल हो गया।
