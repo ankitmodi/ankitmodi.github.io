@@ -275,3 +275,29 @@ Note: This is a Hindi translation of Tomas Pueyo's [excellent research](https://
 
 
 [<img src="https://i.imgur.com/zpiR29v.png">](https://bergamo.corriere.it/notizie/cronaca/20_marzo_07/coronavirus-bergamo-medico-humanitas-facebook-situazione-drammatica-altro-che-normale-influenza-4fdf6866-6088-11ea-8d61-438e0a276fc4.shtml?refresh_ce-cp)
+
+स्वस्थ्य कर्मियों के लिए प्रोटेक्टिव गियर पर्याप्त मात्रा में उपलब्ध नहीं है। इसकी वजह से उन्हें घंटों एक ही गियर में काम करना पड़ता है। फलस्वरूप, वे संक्रमित क्षेत्रों को घंटों तक नहीं छोड़ पाते। जब तक वे उन क्षेत्रों से निकल पाते हैं, तब तक वे बेहद थक जाते हैं, बिखर जाते हैं, डी-हाइड्रेट हो जाते हैं। अब शिफ्टों में काम करने का भी विकल्प नहीं बचा है। मरीज़ों की संख्या को देखते हुए रिटायर्ड स्वास्थ कर्मियों को वापस बुलाना पड़ता है। जिन लोगों को नर्सिंग के बारे में कोई जानकारी नहीं है, उन्हें महत्वपूर्ण भूमिकाओं को पूरा करने के लिए रात भर में ही प्रशिक्षित कर दिया जाता है। हर कोई, हर वक़्त अलर्ट पर रहता है।
+
+
+| ![](https://miro.medium.com/max/3978/0*l_jKPgt7NvPLP3lj) |
+|:--:|
+| [Francesca Mangiatordi](https://www.facebook.com/photo.php?fbid=10216801035206313&set=a.4873666287617&type=3&theater), an Italian nurse that crumbled in the middle of the war with the Coronavirus |
+
+ये तब तक चलता है जब तक स्वास्थ कर्मी ख़ुद बीमार नहीं हो जाते। ऐसा बहुत बार होता है, क्योंकि वे पर्याप्त प्रोटेक्टिव गियर के बिना वायरस के निरंतर संपर्क में रहते हैं। बीमार पड़ने पर उन्हें 14 दिनों के लिए एकांत में रहना होता है और इस दौरान वे मरीज़ों की कोई मदद नहीं कर पाते। अगर भाग्य अच्छा हुआ, तो हम 2 सप्ताह तक उनकी विशेषज्ञता खो देते हैं और अगर भाग्य बुरा हुआ तो सबसे बुरी स्थिति होती है  - हम उन्हें हमेशा के लिए खो देते हैं।
+
+सबसे खराब स्थिति आईसीयू में होती है, जब मरीज़ों को वेंटिलेटर या ईसीएमओ साझा करने की आवश्यकता होती है। ये मशीनें साझा करना असंभव हैं, इसलिए स्वास्थ्य कर्मियों को यह तय करना पड़ता है कि कौन सा रोगी इसका उपयोग करेगा और कौन सा नहीं। इसका सीधा मतलब है की उन्हें ये तय करना पड़ता है कि, कौन बचेगा और कौन नहीं।
+
+[<img src="https://i.imgur.com/uh57TMl.png">](https://www.brusselstimes.com/all-news/belgium-all-news/health/99412/coronavirus-we-must-choose-who-to-treat-says-italian-doctor-covid-19-christian-salaroli/)
+
+**_“कुछ दिनों के बाद, हमें चुनना पड़ता है  […] हर किसी को इंट्यूबेटेड (किसी शारीरिक अंग में ट्यूब लगाना ) नहीं किया जा सकता है। हम उम्र और स्वास्थ्य की स्थिति के आधार पर निर्णय लेते हैं।”_** - **क्रिस्टियन सालारोली, इतालियन एमडी।**
+
+| ![](https://miro.medium.com/max/1982/1*YB5WbhPdiX7B-tgKaH2Tjw.png) |
+|:--:|
+| Medical workers wear protective suits to attend to people sickened by the novel coronavirus, in the intensive care unit of a designated hospital in Wuhan, China, on Feb. 6. (China Daily/Reuters), via [Washington Post](https://www.washingtonpost.com/health/2020/03/07/how-doctors-treat-sickest-coronavirus-patients/) |
+
+
+यही वो कारण हैं जो मृत्यु दर को ~ 0.5% से बढ़ाकर ~ 4% तक ले जाते हैं। यदि आप चाहते हैं कि आपका शहर या आपका देश भी 4% का हिस्सा हो (ना कि 0.5%), तो आज आप निश्चिंत बैठे रहें - कुछ भी ना करें।
+
+| ![](https://miro.medium.com/max/1400/0*HXyxB6TR_c3IAky6) |
+|:--:|
+| Satellite images show Behesht Masoumeh cemetery in the Iranian city of Qom. Photograph: ©2020 Maxar Technologies. Via [The Guardian](https://www.theguardian.com/world/2020/mar/12/coronavirus-iran-mass-graves-qom) and the [The New York Times](https://www.nytimes.com/video/world/middleeast/100000007011860/iran-coronavirus-outbreak.html). |
