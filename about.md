@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Technolgy. Healthcare. Books. Music. Cricket. Football.
+Technology. Healthcare. Books. Music. Cricket. Football.
 
 That pretty much sums me up.
 
