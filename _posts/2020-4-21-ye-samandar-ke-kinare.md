@@ -18,4 +18,4 @@ title: ये समंदर के किनारे
 ![]({{ site.url }}/images/mumbai_beach.jpg)
 | ![]({{ site.url }}/images/mumbai_beach.jpg) |
 |:--:|
-| [Source](https://www.flickr.com/photos/34302763@N07/3227946365/){:target="_blank"} |
+| <a href="https://www.flickr.com/photos/34302763@N07/3227946365/" target="_blank">Source</a> |
