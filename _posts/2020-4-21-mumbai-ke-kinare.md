@@ -16,3 +16,6 @@ title: मुम्बई के किनारे
 मुम्बई के किनारे बहुत अच्छे हैं। वो भेद-भाव नही करते।
 
 ![]({{ site.url }}/images/mumbai_beach.jpg)
+| ![]({{ site.url }}/images/mumbai_beach.jpg) |
+|:--:|
+| [Source](https://www.flickr.com/photos/34302763@N07/3227946365/) |
