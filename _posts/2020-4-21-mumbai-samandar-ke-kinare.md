@@ -1,6 +1,6 @@
 ---
 layout: post
-title: समंदर के किनारे
+title: मुम्बई के किनारे
 ---
 
 मुम्बई में समंदर के किनारे भेद-भाव नहीं करते।
@@ -18,3 +18,5 @@ title: समंदर के किनारे
 | ![]({{ site.url }}/images/mumbai_beach.jpg) |
 |:--:|
 | <a href="https://www.flickr.com/photos/34302763@N07/3227946365/" target="_blank">Source</a> |
+
+&nbsp;
