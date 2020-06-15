@@ -48,7 +48,7 @@ Here are my learnings from _Shape Up_:
 * __Get One Piece Done__: Instead of building lots of disconnected parts and hoping they’ll fit together in the 11th hour,  build one meaningful piece of the work end-to-end early on and then repeat. Work vertically on one small piece of the project instead of chipping away at the horizontal layers. Have something tangible and demo-able in the first week.
 ![](https://basecamp.com/assets/books/shapeup/3.2/back-end_only-e8b9580807d4b4b50a31627b20d37c1dcf90c55b1f0cc20d5ab88f25888b6bf6.png)
 ![](https://basecamp.com/assets/books/shapeup/3.2/one_slice-4cbcdda1a5cdc1b2bdc9bf7bd023cc0c5af666c5857c6e7d32650d9229a81cf0.png)
-<figcaption style="text-align:center"><a href="https://basecamp.com/shapeup/3.2-chapter-10">Source</a> </figcaption>
+<figcaption style="text-align:center"><a href="https://basecamp.com/shapeup/3.2-chapter-10" target="_blank">Source</a> </figcaption>
 
 * __Which piece to work on first? Core, small & Novel__: Choose the feature which solves the core issue first & is small enough to demonstrate. In case of collision, chose the one which is more novel (the one which offers more learning for the team/ eliminates uncertainty).
 
