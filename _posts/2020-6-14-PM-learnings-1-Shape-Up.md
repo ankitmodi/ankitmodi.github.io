@@ -50,7 +50,7 @@ Here are my learnings from _Shape Up_:
 ![](https://basecamp.com/assets/books/shapeup/3.2/back-end_only-e8b9580807d4b4b50a31627b20d37c1dcf90c55b1f0cc20d5ab88f25888b6bf6.png)
 ![](https://basecamp.com/assets/books/shapeup/3.2/one_slice-4cbcdda1a5cdc1b2bdc9bf7bd023cc0c5af666c5857c6e7d32650d9229a81cf0.png)
 
-* __Which piece to work on first? Core, small & Novel__: Choose the feature which solves the core issue first, is small enough to demonstrate. In case of collision, chose the one which is more novel (the one which offers more learning for the team/ eliminates uncertainty)
+* __Which piece to work on first? Core, small & Novel__: Choose the feature which solves the core issue first & is small enough to demonstrate. In case of collision, chose the one which is more novel (the one which offers more learning for the team/ eliminates uncertainty).
 
 * __Map the Scopes__: Organize work by structure, not by person. Segregate work by tasks that fit together (scopes). Scopes reflect the meaningful parts of the problem that can be completed independently and in a short period of time—a few days or less. _They are bigger than tasks but much smaller than the overall project_. Well-made scopes show the anatomy of the project.
 ![](https://basecamp.com/assets/books/shapeup/3.3/drafts_6-a511456472dd9b348e6fc314781a8e6c91e7ae942eed0779036539bf27bbb530.png)
