@@ -12,7 +12,7 @@ Allow me to share a bit of a backdrop - Having a technical background and workin
 ### Books on PM
 The next step is to explore the best books on building great software products. There are numerous blogs about reading-lists on PM & building great products in general. I feel sharing a short-summary or lessons from these books will be useful for the industry and help in pushing product managers into reading them.
 
-Without further ado, let's dive into the book.
+Without further ado, let's dive into the first book.
 
 ### PM Lessons: Shape Up
 I am starting with a book titled __Shape Up__ by _Ryan Singer_ (Head of Strategy, Basecamp). It is an excellent take on the process of product development and is highly relevant for start-ups with growing tech teams. This book is available for free in [here](https://basecamp.com/shapeup/webbook).
