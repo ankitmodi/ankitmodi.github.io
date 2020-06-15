@@ -46,30 +46,22 @@ Here are my learnings from _Shape Up_:
 * __Hand Over responsibility__: Don’t assign tasks to anyone. Trust the team to take on the entire project and work within the boundaries of the pitch. Give full responsibility to a small integrated team of designers and programmers.
 
 * __Get One Piece Done__: Instead of building lots of disconnected parts and hoping they’ll fit together in the 11th hour,  build one meaningful piece of the work end-to-end early on and then repeat. Work vertically on one small piece of the project instead of chipping away at the horizontal layers. Have something tangible and demo-able in the first week.
-
-| ![](https://basecamp.com/assets/books/shapeup/3.2/back-end_only-e8b9580807d4b4b50a31627b20d37c1dcf90c55b1f0cc20d5ab88f25888b6bf6.png) |
-|:--:|
-| ![](https://basecamp.com/assets/books/shapeup/3.2/one_slice-4cbcdda1a5cdc1b2bdc9bf7bd023cc0c5af666c5857c6e7d32650d9229a81cf0.png)   |
-| [Source](https://basecamp.com/shapeup/3.2-chapter-10) |
-
+![](https://basecamp.com/assets/books/shapeup/3.2/back-end_only-e8b9580807d4b4b50a31627b20d37c1dcf90c55b1f0cc20d5ab88f25888b6bf6.png)
+![](https://basecamp.com/assets/books/shapeup/3.2/one_slice-4cbcdda1a5cdc1b2bdc9bf7bd023cc0c5af666c5857c6e7d32650d9229a81cf0.png)
+<figcaption style="text-align:center"><a href="https://basecamp.com/shapeup/3.2-chapter-10">Source</a> </figcaption>
 
 * __Which piece to work on first? Core, small & Novel__: Choose the feature which solves the core issue first & is small enough to demonstrate. In case of collision, chose the one which is more novel (the one which offers more learning for the team/ eliminates uncertainty).
 
 * __Map the Scopes__: Organize work by structure, not by person. Segregate work by tasks that fit together (scopes). Scopes reflect the meaningful parts of the problem that can be completed independently and in a short period of time—a few days or less. _They are bigger than tasks but much smaller than the overall project_. Well-made scopes show the anatomy of the project.
-| ![](https://basecamp.com/assets/books/shapeup/3.3/drafts_6-a511456472dd9b348e6fc314781a8e6c91e7ae942eed0779036539bf27bbb530.png) |
-|:--:|
-| [Source](https://basecamp.com/shapeup/3.3-chapter-11) |
+![](https://basecamp.com/assets/books/shapeup/3.3/drafts_6-a511456472dd9b348e6fc314781a8e6c91e7ae942eed0779036539bf27bbb530.png)
+<figcaption style="text-align:center"><a href="https://basecamp.com/shapeup/3.3-chapter-11">Source</a> </figcaption>
 
 * __Use Hill Charts to show progress__: Each dot represents a piece of work. Every piece of work has two phases. First there’s the uphill phase of figuring out what our approach is and what we’re going to do. Then, once we can see all the work involved, there’s the downhill phase of execution. _Easy to execute once all unknowns are resolved_.
-| ![](https://basecamp.com/assets/books/shapeup/3.4/snapshots-acc8efc1f87284428ed51816961e7f6f40141ff29cf1103c3d0002e73b0da497.png) |
-|:--:|
-| [Source](https://basecamp.com/shapeup/3.4-chapter-12) |
-
+![](https://basecamp.com/assets/books/shapeup/3.4/snapshots-acc8efc1f87284428ed51816961e7f6f40141ff29cf1103c3d0002e73b0da497.png)
+<figcaption style="text-align:center"><a href="https://basecamp.com/shapeup/3.4-chapter-12">Source</a> </figcaption>
 * __Decide When to Stop__: Don't aim for the ideal design/Code, compare down to baseline—the current reality for customers. How do customers solve this problem today, without this feature? Move from _“never good enough”_ to _“better than what they have now”_.
-| ![](https://basecamp.com/assets/books/shapeup/3.5/compare_to_baseline-ff521686dc8ea60cb9587d072409f5ee8bba79ca269e0fb04963b930699fb62d.jpg) |
-|:--:|
-| [Source](https://basecamp.com/shapeup/3.5-chapter-13) |
-
+![](https://basecamp.com/assets/books/shapeup/3.5/compare_to_baseline-ff521686dc8ea60cb9587d072409f5ee8bba79ca269e0fb04963b930699fb62d.jpg)
+<figcaption style="text-align:center"><a href="https://basecamp.com/shapeup/3.5-chapter-13">Source</a> </figcaption>
 * __Scope Hammering__: Divide features into __Must-haves__ vs __Nice-to-haves__. Be brutal in this differentiation & its execution.
 
 * __On Testing__:
