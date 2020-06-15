@@ -3,18 +3,22 @@ layout: post
 title: PM Lessons 1 - Shape Up
 ---
 
-This is the first of a blog series on lessons from the best books on building software products.
+This is the first blog of a series on lessons from the best books on building software products.
+
+### Backdrop
 
 Allow me to share a bit of a backdrop - Having a technical background and 5 years of experience in the tech industry has helped me in gaining some insights into how a product comes to life. My curiosity about the non-technical aspects of the lifecycle of a product pushed me to explore more about the field. There were multiple resources like MOOCs, blogs, and books to start with. Though blogs are great for getting a peripheral understanding, I found courses and books to be delving much deeper into the subject. I had fun doing [University of Alberta's course](https://www.coursera.org/specializations/product-management) on Software Product Management [last year](https://drive.google.com/drive/folders/1InrMERnMmc3xJ736b_SEZBCDlifMPWnm) - highly recommended if you want to get into the nitty-gritty of product management (PM).
 
+### Books on PM
 The next step is to explore the best books on building great software products. There are numerous blogs about must-read-books on PM & building great products in general. I feel sharing a short-summary or lessons from these books will be useful for the industry and help in pushing product managers into reading them.
 
+### PM Lessons: Shape Up
 I am starting with Ryan Singer's Shape Up - an excellent take on the process of product development. It's available for free in [here](https://basecamp.com/shapeup/webbook).
 
 Without further ado, let me share the PM lessons from Shape Up:
 
 
-* Shape the work before giving it to a team. Focus on __appetite__. Instead of asking _how much time it will take to do some work_, ask: _How much time do we want to spend? How much is this idea worth?_
+* __Shape the work__ before giving it to a team. Focus on __appetite__. Instead of asking _how much time it will take to do some work_, ask: _How much time do we want to spend? How much is this idea worth?_
 
 * __Principles of Shaping__:
   - Wireframes are too concrete . Words are too abstract.
