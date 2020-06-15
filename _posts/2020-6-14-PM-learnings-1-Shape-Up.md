@@ -26,8 +26,8 @@ Without further ado, let me share the PM lessons from Shape Up:
     - __Rough__: Enough flexibility for designers & programmers to think and apply their expertise
     - __Solved__: All main elements of solution are there at the macro level and they connect together
     - __Bounded__: Absolute clarity on what not to do
-&nbsp;
 
+&nbsp;
 * __Steps to shaping__:
   - __Set boundaries__: Figure out how much time the raw idea is worth and how to define the problem. Default response to any idea that comes up should be: “_Interesting. Maybe someday_.” In other words, a very soft “no”.
   - __Rough out the elements__: Sketch a solution at a higher level of abstraction than wireframes in order to move fast and explore widely (Breadboarding / Fat-sketches).
