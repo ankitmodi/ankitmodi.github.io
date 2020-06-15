@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PM Lessons 1 - Shape Up
+title: PM Lessons I - Shape Up
 ---
 
 This is the first blog of a series on lessons from the best books on building software products.
