@@ -26,6 +26,7 @@ Without further ado, let me share the PM lessons from Shape Up:
     - __Rough__: Enough flexibility for designers & programmers to think and apply their expertise
     - __Solved__: All main elements of solution are there at the macro level and they connect together
     - __Bounded__: Absolute clarity what not to do
+
 &nbsp;
 
 * __Steps to shaping__:
