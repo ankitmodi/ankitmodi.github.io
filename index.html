@@ -2,17 +2,25 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="categories">
+    {% assign category_names_in_order = "Technology,Personal" | split: ',' %}
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    {% for category_name in category_names_in_order %}
+        <h1 class="category-head">{{ category_name | capitalize }}</h1>
+            <div class="posts">
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+              {% for post in site.categories[category_name] %}
+                <article class="post">
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+                  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+
+                  <div class="excerpt-text">
+                    {{ post.excerpt }}
+                  </div>
+
+                  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+                </article>
+              {% endfor %}
+            </div>
+    {% endfor %}
 </div>

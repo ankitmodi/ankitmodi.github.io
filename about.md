@@ -6,8 +6,8 @@ permalink: /about/
 
 Technology. Healthcare. Books. Music. Cricket. Football.
 
-That pretty much sums me up.
+That's pretty much me.
 
-### Contact me
+<!-- ### Contact me
 
-[a.modi1422@gmail.com](mailto:a.modi1422@gmail.com)
+[a.modi1422@gmail.com](mailto:a.modi1422@gmail.com) -->

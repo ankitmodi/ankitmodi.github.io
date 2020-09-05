@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PM Lessons I - Shape Up
+categories: Technology
 ---
 
 This is the first blog of a series on lessons from the best books on building software products.
