@@ -54,10 +54,6 @@ h2 {
 
 h3 {
   font-size: 20px;
-  color: $gray;
-  a {
-    color: inherit;
-  }
 }
 
 h4 {
@@ -290,6 +286,14 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.h3Index {
+  font-size: 20px;
+  color: $gray;
+  a {
+    color: inherit;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
