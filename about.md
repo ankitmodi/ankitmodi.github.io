@@ -13,6 +13,7 @@ My professional interests lie at the junction of healthcare and technology. At p
 My hobbies include reading, writing, cricket, football & music - in that order.
 
 If you believe that Sachin Tendulkar is the best batsman ever but can still admire Rahul Dravid more, then we should hang out soon. If you are also interested in Stoic philosophy and writings, then we're best friends already.
+
 <!-- ### Contact me
 
 [a.modi1422@gmail.com](mailto:a.modi1422@gmail.com) -->
