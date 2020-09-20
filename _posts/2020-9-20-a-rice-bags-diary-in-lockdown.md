@@ -43,7 +43,7 @@ There is another higher purpose in my life. I am destined to feed people. I have
 
 *Tuesday, 21st April*
 
-I am getting a bit eager to get out of the godown. To live life freely and fulfill my destiny. I am waiting for that day to arrive but it is taking some time. A bit more than usual. The rice bags from the previous harvest are getting old. I don’t want to grow old here. Buyers might reject me if pests infect me and I don’t look good enough. Looks are important in this business. I don’t want to be rejected. Also, if I don’t look good, I will fetch less money for Buta and that will make me sad.
+I am getting a bit eager to get out of the godown. To live life freely and fulfill my destiny. I am waiting for that day to arrive but it is taking some time. A bit more than usual. The rice bags from the previous harvest are getting old. I don’t want to grow old here. Buyers might reject me if pests infect me and I don’t look good enough. Looks matter in this business. I don’t want to be rejected. Also, if I don’t look good, I will fetch less money for Buta and that will make me sad.
 
 Why are the trucks not coming? What on earth is Buta waiting for to sell me? The older folks tell me that this delay is unlike others. Usually, half of the bags are out of the godown by now.
 
