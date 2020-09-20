@@ -2,7 +2,7 @@
 layout: post
 title: A rice-bag's diary in lockdown
 categories: Personal
-excerpt: I am Brownie. My friends call me a happy bag of rice. I was born last week when a brand new jute bag mated with Buta Singh’s fresh farm produce.
+excerpt: Hello Diary, I am Brownie. My friends call me a happy bag of rice. I was born last week when a brand new jute bag mated with Buta Singh’s fresh farm produce.
 ---
 <br>
 <br>
