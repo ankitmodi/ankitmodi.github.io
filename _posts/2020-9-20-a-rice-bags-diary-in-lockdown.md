@@ -111,7 +111,7 @@ I thought he would push me down to get me near the door. That would hurt again b
 
 But Buta didn’t push me. Instead, he stood on me and tied one end of the rope with a nail on the ceiling. He tied a knot with the other end forming a circle from it and put it around his neck. He pulled the rope to fit his neck. And then he allowed his legs to slip past me.
 
-Buta and my destiny are hanging lifeless before my eyes.
+Buta Singh and my destiny were hanging lifeless before my eyes.
 
 <br>
 <br>
