@@ -22,7 +22,7 @@ Author: <a href='https://www.goodreads.com//author/show/76360.Matt_Haig' target=
 My rating: ___4 out of 5 stars___
 <br><br>
 Reasons to Stay Alive is a deeply personal account of depression. Matt Haig has given simple and beautiful explanations around the 'the black dog'. You get to know how the simplest of tasks become so challenging due to 'the monster'. This book will make you more compassionate towards depressives.
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 
@@ -33,7 +33,7 @@ Author: <a href='https://www.goodreads.com//author/show/6587.Tad_Williams' targe
 My rating: ___4 out of 5 stars___
 <br><br>
 This is an epic fantasy with a deeply immersive world and some very engaging characters. The conversations were delightful to read. <br/> However, what prevents me from giving this book a 5-star rating is the slow build-up. I was warned about it before picking the book. The advice of not dismissing it before 200 pages really made me stick to it. And it was well worth the effort. Looking forward to the next books in the series.
-<br><br>
+<br><br><br>
 
 
 
@@ -44,7 +44,7 @@ Author: <a href='https://www.goodreads.com//author/show/46603.Ruskin_Bond' targe
 My rating: ___4 out of 5 stars___
 <br><br>
 This book is a collection of Ruskin Bond's intimate and valuable notes on life. These notes show that his is a life well lived. <br/> Watch out for the beautiful descriptions of a slow paced life in the hills of the Himalayas.
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 
@@ -55,7 +55,7 @@ Author: <a href='https://www.goodreads.com//author/show/3389.Stephen_King' targe
 My rating: ___4 out of 5 stars___
 <br><br>
 Stephen King gives sound advice on writing. He manages to prevent it from getting boring by peppering humor over the pages. <br/> The suggestions can be generalized for becoming a better communicator (on paper). It would affect not only your stories and novels but also your everyday emails, letters & chats. In fact, it is currently affecting the writing of this review. <br/> This book will inspire you to write again.
-<br><br>
+<br><br><br>
 
 
 
