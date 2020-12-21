@@ -2,7 +2,7 @@
 layout: post
 title: My Year in Books - 2019
 ---
-2019 was a good reading year for me. Here are the books I read in order of how much I liked them:
+Here are the books that I read this year - some were delightful and some all right. I am listing them in order of my ratings (best first):
 
 ### <a href='https://www.goodreads.com//book/show/36576608-flowers-for-algernon' target='_blank'>1. Flowers for Algernon</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510416245l/36576608.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
