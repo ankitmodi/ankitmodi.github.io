@@ -4,7 +4,7 @@ title: My Year in Books - 2020
 ---
 2020 has finally coming to an end - phew! A tragic year with abundance of loneliness & boredom. What's moderately decent about 2020 is the fact that the work-from-home culture kicked in and saved us some time from the dreaded Mumbai traffic. It presented an opportunity to fall back in love with your hobbies again. For me, it was reading.
 
-Here are the books that I read this year - some were delightful and some all right. I am listing them in order of my ratings (best first):
+Here are the books that I read this year - some were delightful and some all right. I am listing them in order of my ratings (best-first):
 
 ### <a href='https://www.goodreads.com//book/show/28691.To_Green_Angel_Tower' target='_blank'>1. To Green Angel Tower (Memory, Sorrow, and Thorn, #3)</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347824309l/28691.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
