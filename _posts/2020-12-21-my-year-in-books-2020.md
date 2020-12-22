@@ -59,7 +59,7 @@ Author: <a href='https://www.goodreads.com//author/show/17575761.John_Carreyrou'
 <br>
 My rating: ___5 out of 5 stars___
 <br><br>
-Bad blood is an absolute page-turner. The thrill in this business story is on par with Phil turner's  <i>Shoe Dog</i> , albeit its lessons lie on the opposite end of the spectrum. This is  <i>How Not to Run a Start-Up 101</i>  in blood & flesh. The enormity of the fraud and the blatant disregard for ethics is mind-boggling - especially since Theranos dealt in health care. <br/> <br/> John Carreyrou has done a commendable job at first conducting this investigation and then writing so lucidly about it. It almost reads like fiction. He aptly summarizes the silicon valley culture which led to this fiasco: <br/> <blockquote> <i>Hyping your product to get funding while concealing your true progress and hoping that reality will eventually catch up to the hype continues to be tolerated in the tech industry.</i></blockquote>
+Bad blood is an absolute page-turner. The thrill in this business story is on par with Phil turner's  <i>Shoe Dog</i> , albeit its lessons lie on the opposite end of the spectrum. This is  <i>How Not to Run a Start-Up 101</i>  in blood & flesh. The enormity of the fraud and the blatant disregard for ethics is mind-boggling - especially since Theranos dealt in healthcare. <br/> <br/> John Carreyrou has done a commendable job at first conducting this investigation and then writing so lucidly about it. It almost reads like fiction. He aptly summarizes the silicon valley culture which led to this fiasco: <br/> <br/><i>"Hyping your product to get funding while concealing your true progress and hoping that reality will eventually catch up to the hype continues to be tolerated in the tech industry.""</i>
 <br clear="all"><br>
 
 
@@ -159,27 +159,6 @@ Author: <a href='https://www.goodreads.com//author/show/710841._' target='_blank
 My rating: ___4 out of 5 stars___
 <br><br>
 "सूरज का सातवां घोड़ा" लेखन की शैली में एक अनूठा प्रयोग है। इसे लघु-उपन्यास भी मान सकते हैं और लघु-कथाओं का संग्रह भी। इन कहानियों में हास्य है और मध्यम वर्गीय परिवारों का संघर्ष भी। माणिक मुल्ला एक दिलचस्प किरदार है और उनका कहानियाँ सुनाने का अंदाज़ भी अलहदा है। मुझे ये कहानियाँ काफ़ी पसंद आयी और जैसा कि धर्मवीर भारती जी ने कहा है - इसका सारा श्रेय माणिक मुल्ला को जाता है, लेखक को नहीं।
-<br clear="all"><br>
-
-
-### <a href='https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited' target='_blank'>32. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</a>
-![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384736553l/18197267.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
-Author: <a href='https://www.goodreads.com/author/show/2298.Steve_Krug' target='_blank'>_Steve Krug_</a>
-<br>
-My rating: ___currently reading___
-<br><br>
-...coming soon...
-<br clear="all"><br>
-
-
-
-### <a href='https://www.goodreads.com/book/show/157993.The_Little_Prince' target='_blank'>33. The Little Prince</a>
-![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
-Author: <a href='https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry' target='_blank'>_Antoine de Saint-Exupéry_</a>
-<br>
-My rating: ___currently reading___
-<br><br>
-...coming soon...
 <br clear="all"><br>
 
 
@@ -322,7 +301,7 @@ Author: <a href='https://www.goodreads.com//author/show/6485178.Fredrik_Backman'
 <br>
 My rating: ___3 out of 5 stars___
 <br><br>
-**spoiler alert** This is a feel-good story about an endearing character. Ove reminds us of a doting grandfather. There is a certain sweetness about Ove's love for his Saab and his disdain for men in white shirts. It has some beautiful & quotable paragraphs on love. I would have loved to explore more about his transition into liking things that he initially hated. <br/> <br/> On the flip side, the book gets repetitive after 200-odd pages. There's only so much that you can read about his cat, dislike for gadgets & love for tools. The story could have been more compact. Deducting one star for the length.
+This is a feel-good story about an endearing character. Ove reminds us of a doting grandfather. There is a certain sweetness about Ove's love for his Saab and his disdain for men in white shirts. It has some beautiful & quotable paragraphs on love. I would have loved to explore more about his transition into liking things that he initially hated. <br/> <br/> On the flip side, the book gets repetitive after 200-odd pages. There's only so much that you can read about his cat, dislike for gadgets & love for tools. The story could have been more compact. Deducting one star for the length.
 <br clear="all"><br>
 
 
@@ -367,4 +346,26 @@ Author: <a href='https://www.goodreads.com//author/show/13450.Gabriel_Garc_a_M_r
 My rating: ___2 out of 5 stars___
 <br><br>
 Looks like I missed out on understanding the hype around this novel. I was left wondering what is it exactly that makes it so revered.  <br/> <br/> The story lacked a central theme. None of the characters had enough space to make them relatable except Ursula. Several characters had similar names which were confusing. There was hardly any dialogue or conversation. The story was wayward with nothing cohesive binding the 5 or 6 generations together. It sort of felt like 5 outlines spread over 420 pages. <br/> <br/> I picked it up with so much anticipation and ended up dragging myself through the latter half of this book.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited' target='_blank'>32. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</a>
+![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384736553l/18197267.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
+Author: <a href='https://www.goodreads.com/author/show/2298.Steve_Krug' target='_blank'>_Steve Krug_</a>
+<br>
+My rating: ___currently reading___
+<br><br>
+...coming soon...
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com/book/show/157993.The_Little_Prince' target='_blank'>33. The Little Prince</a>
+![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
+Author: <a href='https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry' target='_blank'>_Antoine de Saint-Exupéry_</a>
+<br>
+My rating: ___currently reading___
+<br><br>
+...coming soon...
 <br clear="all"><br>
