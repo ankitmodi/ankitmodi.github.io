@@ -81,7 +81,7 @@ Author: <a href='https://www.goodreads.com//author/show/10427.James_Baldwin' tar
 <br>
 My rating: ___5 out of 5 stars___
 <br><br>
-These hundred-odd pages from James Baldwin are probably the shortest - and yet a deep introduction to the injustice bestowed upon the black community for ages. The book is highly recommended if you're moved even a wee bit by what's happening in the USA. <br/> <br/> The beauty of Baldwin's message lies in him trying to find the solution through love and not hatred towards your hater. He must have seen the future while writing this: <br/> <br/> <b> "It demands great spiritual resilience not to hate the hater whose foot is on your neck, and an even greater miracle of perception and charity not to teach your child to hate." </b>
+These hundred-odd pages from James Baldwin are probably the shortest - and yet a deep introduction to the injustice bestowed upon the black community for ages. The book is highly recommended if you're moved even a wee bit by what's happening in the USA. <br/> <br/> The beauty of Baldwin's message lies in him trying to find the solution through love and not hatred towards your hater. He must have seen the future while writing this: <br/> <br/> *"It demands great spiritual resilience not to hate the hater whose foot is on your neck, and an even greater miracle of perception and charity not to teach your child to hate."*
 <br clear="all"><br>
 
 
