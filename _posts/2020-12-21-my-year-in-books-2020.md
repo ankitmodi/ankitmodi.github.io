@@ -2,9 +2,11 @@
 layout: post
 title: My Year in Books - 2020
 ---
-2020 is finally coming to an end - phew! It was a tragic year with abundance of solitude & boredom. The only decent thing about 2020 was the work-from-home culture kicking in and saving our time from the dreaded Mumbai traffic. It presented an opportunity to fall back in love with your hobbies again. For me, it was reading.
+2020 is finally coming to an end - phew!
 
-Here are the books that I read this year - some were delightful and some all right. I am listing them in order of my ratings (highest rated first):
+It was a tragic year with an abundance of solitude & boredom. The only decent thing about 2020 was the work-from-home culture kicking in and saving our time from the dreaded Mumbai traffic. It presented an opportunity to fall back in love with our hobbies again. For me, it was reading.
+
+I shouldn't have needed 2020 to up my reading game but staying indoors for a whole year took away that one last excuse of lack of time. So here are the books that I read this year - some of them were delightful and some all right. I am listing them in order of my ratings (highest rated first):
 
 
 ### <a href='https://www.goodreads.com//book/show/28691.To_Green_Angel_Tower' target='_blank'>1. To Green Angel Tower (Memory, Sorrow, and Thorn, #3)</a>
