@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scraping Goodreads to create your year-end blog of books &#58; An intro to Web Scraping using Python
+title: Scraping Goodreads to create your year-end blog on books &#58; An intro to Web Scraping using Python
 categories: Technology
 css: highlights
 ---
