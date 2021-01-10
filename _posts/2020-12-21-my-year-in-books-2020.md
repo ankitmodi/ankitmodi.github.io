@@ -86,7 +86,31 @@ These hundred-odd pages from James Baldwin are probably the shortest - and yet a
 
 
 
-### <a href='https://www.goodreads.com//book/show/10866631' target='_blank'>8. निठल्ले की डायरी</a>
+### <a href='https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited' target='_blank'>8. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</a>
+![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384736553l/18197267.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
+Author: <a href='https://www.goodreads.com/author/show/2298.Steve_Krug' target='_blank'>_Steve Krug_</a>
+<br>
+My rating: ___4 out of 5 stars___
+<br><br>
+Interesting read on web design and usability. Its ideas are simple and effective. People working on web/app-based products (engineers, designers, product managers) will enjoy this book.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com/book/show/157993.The_Little_Prince' target='_blank'>9. The Little Prince</a>
+![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
+Author: <a href='https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry' target='_blank'>_Antoine de Saint-Exupéry_</a>
+<br>
+My rating: ___4 out of 5 stars___
+<br><br>
+This was a beautiful read! There are different layers to the story depending on whether the reader is a child or a grown-up. Although grown-ups are strange, they still might enjoy reading it ;)
+
+*"It is only with the heart that one can see rightly; what is essential is invisible to the eye."*
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/10866631' target='_blank'>10. निठल्ले की डायरी</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301081196l/10866631.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/4615204.Harishankar_Parsai' target='_blank'>_Harishankar Parsai_</a>
 <br>
@@ -97,7 +121,7 @@ My rating: ___4 out of 5 stars___
 
 
 
-### <a href='https://www.goodreads.com//book/show/8695.The_Restaurant_at_the_End_of_the_Universe' target='_blank'>9. The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)</a>
+### <a href='https://www.goodreads.com//book/show/8695.The_Restaurant_at_the_End_of_the_Universe' target='_blank'>11. The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/4.Douglas_Adams' target='_blank'>_Douglas Adams_</a>
 <br>
@@ -108,7 +132,7 @@ Better than the first book. Absolutely bizarre. Hilarious. Sometimes philosophic
 
 
 
-### <a href='https://www.goodreads.com//book/show/34466963-why-we-sleep' target='_blank'>10. Why We Sleep: Unlocking the Power of Sleep and Dreams</a>
+### <a href='https://www.goodreads.com//book/show/34466963-why-we-sleep' target='_blank'>12. Why We Sleep: Unlocking the Power of Sleep and Dreams</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/17598726.Matthew_Walker' target='_blank'>_Matthew Walker_</a>
 <br>
@@ -119,7 +143,7 @@ This book is a summary of more than 20 years of sleep research. It was a scary r
 
 
 
-### <a href='https://www.goodreads.com//book/show/128029.A_Thousand_Splendid_Suns' target='_blank'>11. A Thousand Splendid Suns</a>
+### <a href='https://www.goodreads.com//book/show/128029.A_Thousand_Splendid_Suns' target='_blank'>13. A Thousand Splendid Suns</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345958969l/128029.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/569.Khaled_Hosseini' target='_blank'>_Khaled Hosseini_</a>
 <br>
@@ -130,7 +154,7 @@ A riveting story of two enduring female characters with a backdrop of the devast
 
 
 
-### <a href='https://www.goodreads.com//book/show/4143812-discourses-and-selected-writings' target='_blank'>12. Discourses and Selected Writings</a>
+### <a href='https://www.goodreads.com//book/show/4143812-discourses-and-selected-writings' target='_blank'>14. Discourses and Selected Writings</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311645700l/4143812.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/13852.Epictetus' target='_blank'>_Epictetus_</a>
 <br>
@@ -141,7 +165,7 @@ Discourses is a hard book to read but totally worth the effort. It isn't a breez
 
 
 
-### <a href='https://www.goodreads.com//book/show/50776459-shape-up' target='_blank'>13. Shape Up: Stop Running in Circles and Ship Work that Matters</a>
+### <a href='https://www.goodreads.com//book/show/50776459-shape-up' target='_blank'>15. Shape Up: Stop Running in Circles and Ship Work that Matters</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569345815l/50776459.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/2812472.Ryan_Singer' target='_blank'>_Ryan Singer_</a>
 <br>
@@ -152,7 +176,7 @@ Ryan Singer provides very sane advice on managing the product development proces
 
 
 
-### <a href='https://www.goodreads.com//book/show/6720421' target='_blank'>14. सूरज का सातवाँ घोड़ा</a>
+### <a href='https://www.goodreads.com//book/show/6720421' target='_blank'>16. सूरज का सातवाँ घोड़ा</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357204311l/6720421.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/710841._' target='_blank'>_धर्मवीर भारती_</a>
 <br>
@@ -163,7 +187,7 @@ My rating: ___4 out of 5 stars___
 
 
 
-### <a href='https://www.goodreads.com//book/show/12071434' target='_blank'>15. आषाढ़ का एक दिन</a>
+### <a href='https://www.goodreads.com//book/show/12071434' target='_blank'>17. आषाढ़ का एक दिन</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344982437l/12071434.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/1228886.Mohan_Rakesh' target='_blank'>_Mohan Rakesh_</a>
 <br>
@@ -174,7 +198,7 @@ My rating: ___4 out of 5 stars___
 
 
 
-### <a href='https://www.goodreads.com//book/show/28689.Stone_of_Farewell' target='_blank'>16. Stone of Farewell (Memory, Sorrow, and Thorn, #2)</a>
+### <a href='https://www.goodreads.com//book/show/28689.Stone_of_Farewell' target='_blank'>18. Stone of Farewell (Memory, Sorrow, and Thorn, #2)</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441754723l/28689.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/6587.Tad_Williams' target='_blank'>_Tad Williams_</a>
 <br>
@@ -185,7 +209,7 @@ This was a fantastic second book in the series. While the first book properly se
 
 
 
-### <a href='https://www.goodreads.com//book/show/35400620-nehru-and-bose' target='_blank'>17. Nehru and Bose: Parallel Lives</a>
+### <a href='https://www.goodreads.com//book/show/35400620-nehru-and-bose' target='_blank'>19. Nehru and Bose: Parallel Lives</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497112882l/35400620.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/123328.Rudrangshu_Mukherjee' target='_blank'>_Rudrangshu Mukherjee_</a>
 <br>
@@ -196,7 +220,7 @@ My rating: ___4 out of 5 stars___
 
 
 
-### <a href='https://www.goodreads.com//book/show/26203640-nonviolent-communication' target='_blank'>18. Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</a>
+### <a href='https://www.goodreads.com//book/show/26203640-nonviolent-communication' target='_blank'>20. Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441489469l/26203640.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/40541.Marshall_B_Rosenberg' target='_blank'>_Marshall B. Rosenberg_</a>
 <br>
@@ -207,7 +231,7 @@ This book has sound advice on communicating effectively. You get a clear picture
 
 
 
-### <a href='https://www.goodreads.com//book/show/764670.Calvin_and_Hobbes_1' target='_blank'>19. Calvin and Hobbes 1: Thereby Hangs a Tale</a>
+### <a href='https://www.goodreads.com//book/show/764670.Calvin_and_Hobbes_1' target='_blank'>21. Calvin and Hobbes 1: Thereby Hangs a Tale</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437956473l/764670.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/13778.Bill_Watterson' target='_blank'>_Bill Watterson_</a>
 <br>
@@ -218,7 +242,7 @@ A happy, feel-good book!
 
 
 
-### <a href='https://www.goodreads.com//book/show/9107056-bhagavad-gita-as-viewed-by-swami-vivekananda' target='_blank'>20. Bhagavad Gita As Viewed by Swami Vivekananda</a>
+### <a href='https://www.goodreads.com//book/show/9107056-bhagavad-gita-as-viewed-by-swami-vivekananda' target='_blank'>22. Bhagavad Gita As Viewed by Swami Vivekananda</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382993876l/9107056.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/80592.Swami_Vivekananda' target='_blank'>_Swami Vivekananda_</a>
 <br>
@@ -229,7 +253,7 @@ This is a beginner's guide to Bhagwad Gita. The philosophical aspects are deep a
 
 
 
-### <a href='https://www.goodreads.com//book/show/14760312-cobalt-blue' target='_blank'>21. Cobalt Blue </a>
+### <a href='https://www.goodreads.com//book/show/14760312-cobalt-blue' target='_blank'>23. Cobalt Blue </a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385348881l/14760312.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/6154167.Sachin_Kundalkar' target='_blank'>_Sachin Kundalkar_</a>
 <br>
@@ -240,7 +264,7 @@ This book has a captivating premise and was an easy read. I liked the subtle det
 
 
 
-### <a href='https://www.goodreads.com//book/show/35891926-jail-notebook-and-other-writings' target='_blank'>22. Jail Notebook and Other Writings</a>
+### <a href='https://www.goodreads.com//book/show/35891926-jail-notebook-and-other-writings' target='_blank'>24. Jail Notebook and Other Writings</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501575393l/35891926.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/2799777.Bhagat_Singh' target='_blank'>_Bhagat Singh_</a>
 <br>
@@ -251,7 +275,7 @@ Shaheed Bhagat Singh's intellect, ideas and the mastery over language to convey 
 
 
 
-### <a href='https://www.goodreads.com//book/show/2547.The_Prophet' target='_blank'>23. The Prophet</a>
+### <a href='https://www.goodreads.com//book/show/2547.The_Prophet' target='_blank'>25. The Prophet</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355046521l/2547.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/6466154.Kahlil_Gibran' target='_blank'>_Kahlil Gibran_</a>
 <br>
@@ -262,7 +286,7 @@ A short book on faith and philosophy with poignant ideas. The prose is beautiful
 
 
 
-### <a href='https://www.goodreads.com//book/show/9567418-guilty-men-of-india-s-partition' target='_blank'>24. Guilty Men of India's Partition</a>
+### <a href='https://www.goodreads.com//book/show/9567418-guilty-men-of-india-s-partition' target='_blank'>26. Guilty Men of India's Partition</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501555946l/9567418.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/4422384.Ram_Manohar_Lohia' target='_blank'>_Ram Manohar Lohia_</a>
 <br>
@@ -273,7 +297,7 @@ Ram Manohar Lohia gives an insider account of the times of partition. He has pre
 
 
 
-### <a href='https://www.goodreads.com//book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy' target='_blank'>25. The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)</a>
+### <a href='https://www.goodreads.com//book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy' target='_blank'>27. The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/4.Douglas_Adams' target='_blank'>_Douglas Adams_</a>
 <br>
@@ -284,7 +308,7 @@ Funny and as bizarre as life, the universe & everything.
 
 
 
-### <a href='https://www.goodreads.com//book/show/22668729-hooked' target='_blank'>26. Hooked: How to Build Habit-Forming Products</a>
+### <a href='https://www.goodreads.com//book/show/22668729-hooked' target='_blank'>28. Hooked: How to Build Habit-Forming Products</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407112405l/22668729.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/7284116.Nir_Eyal' target='_blank'>_Nir Eyal_</a>
 <br>
@@ -295,7 +319,7 @@ Hooked is about building addictive tech products. The book is nicely structured 
 
 
 
-### <a href='https://www.goodreads.com//book/show/18774964-a-man-called-ove' target='_blank'>27. A Man Called Ove</a>
+### <a href='https://www.goodreads.com//book/show/18774964-a-man-called-ove' target='_blank'>29. A Man Called Ove</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259930l/18774964.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/6485178.Fredrik_Backman' target='_blank'>_Fredrik Backman_</a>
 <br>
@@ -306,7 +330,7 @@ This is a feel-good story about an endearing character. Ove reminds us of a doti
 
 
 
-### <a href='https://www.goodreads.com//book/show/840.The_Design_of_Everyday_Things' target='_blank'>28. The Design of Everyday Things</a>
+### <a href='https://www.goodreads.com//book/show/840.The_Design_of_Everyday_Things' target='_blank'>30. The Design of Everyday Things</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442460745l/840.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/552.Donald_A_Norman' target='_blank'>_Donald A. Norman_</a>
 <br>
@@ -317,7 +341,7 @@ Don Norman provides a nice introduction to human-centered design. It's interesti
 
 
 
-### <a href='https://www.goodreads.com//book/show/30244505-gujarat-files' target='_blank'>29. Gujarat Files</a>
+### <a href='https://www.goodreads.com//book/show/30244505-gujarat-files' target='_blank'>31. Gujarat Files</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463820774l/30244505.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/15271424.Rana_Ayyub' target='_blank'>_Rana Ayyub_</a>
 <br>
@@ -328,7 +352,7 @@ Rana Ayyub's version of truth is chilling. <br/> The timelines could have been m
 
 
 
-### <a href='https://www.goodreads.com//book/show/31138556-homo-deus' target='_blank'>30. Homo Deus: A History of Tomorrow</a>
+### <a href='https://www.goodreads.com//book/show/31138556-homo-deus' target='_blank'>32. Homo Deus: A History of Tomorrow</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/395812.Yuval_Noah_Harari' target='_blank'>_Yuval Noah Harari_</a>
 <br>
@@ -339,33 +363,11 @@ This book has a high fluff to content ratio. Being about the future, it understa
 
 
 
-### <a href='https://www.goodreads.com//book/show/320.One_Hundred_Years_of_Solitude' target='_blank'>31. One Hundred Years of Solitude</a>
+### <a href='https://www.goodreads.com//book/show/320.One_Hundred_Years_of_Solitude' target='_blank'>33. One Hundred Years of Solitude</a>
 ![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
 Author: <a href='https://www.goodreads.com//author/show/13450.Gabriel_Garc_a_M_rquez' target='_blank'>_Gabriel Garcí­a Márquez_</a>
 <br>
 My rating: ___2 out of 5 stars___
 <br><br>
 Looks like I missed out on understanding the hype around this novel. I was left wondering what is it exactly that makes it so revered.  <br/> <br/> The story lacked a central theme. None of the characters had enough space to make them relatable except Ursula. Several characters had similar names which were confusing. There was hardly any dialogue or conversation. The story was wayward with nothing cohesive binding the 5 or 6 generations together. It sort of felt like 5 outlines spread over 420 pages. <br/> <br/> I picked it up with so much anticipation and ended up dragging myself through the latter half of this book.
-<br clear="all"><br>
-
-
-
-### <a href='https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited' target='_blank'>32. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</a>
-![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384736553l/18197267.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
-Author: <a href='https://www.goodreads.com/author/show/2298.Steve_Krug' target='_blank'>_Steve Krug_</a>
-<br>
-My rating: ___currently reading___
-<br><br>
-...coming soon...
-<br clear="all"><br>
-
-
-
-### <a href='https://www.goodreads.com/book/show/157993.The_Little_Prince' target='_blank'>33. The Little Prince</a>
-![cover image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg){: height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px' }
-Author: <a href='https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry' target='_blank'>_Antoine de Saint-Exupéry_</a>
-<br>
-My rating: ___currently reading___
-<br><br>
-...coming soon...
 <br clear="all"><br>
