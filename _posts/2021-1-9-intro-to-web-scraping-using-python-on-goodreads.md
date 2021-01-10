@@ -291,7 +291,7 @@ def create_markdown(filtered_and_sorted_book_list, year, intro_para,
 
 *Line 5-11* opens the markdown file from the provided path and writes the blueprint of a Jekyll blog (layout, title, initial paragraph)in it.
 
-We loop over the book list in *Line 13-43* and create the markdown paragraph for each book. Here's how each book paragraph looks like:
+We loop over the book list in *Line 13-43* and create the markdown paragraph for each book. Here's a screenshot to show how each book paragraph looks like:
 
 ![]({{ site.url }}/images/scraping_goodreads/book_para1.png)
 
@@ -308,8 +308,8 @@ We loop over the book list in *Line 13-43* and create the markdown paragraph for
 *Line 42-43* adds the review below it.
 
 These paragraphs are created for each book in the *book_list*.
-<br>
+<br><br>
 
-That's it. Your markdown file is created. The file is ready to be copied and pasted in your Jekyll blog (typically inside the *_posts* folder).
+That's it. Your markdown file is created. The file is ready to be copied and pasted in your Jekyll blog (typically inside the *_posts* folder). You're set to share your books and reviews with your friends now!
 
-You're set to share your books and reviews with your friends now!
+Keep reading & keep sharing!
