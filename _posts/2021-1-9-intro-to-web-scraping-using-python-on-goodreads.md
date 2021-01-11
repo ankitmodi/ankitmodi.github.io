@@ -5,7 +5,7 @@ categories: Technology
 css: highlights
 ---
 
-I like reading books and writing reviews on Goodreads. And I wanted to create a year-end blog post to share those books and reviews. However, copy-pasting all these reviews from Goodreads didn't seem like a good idea - especially if you want to repeat the task every year.
+I like reading books and writing reviews on Goodreads. And I wanted to create [a year-end blog post](https://ankitmodi.github.io/my-year-in-books-2020/) to share those books and reviews. However, copy-pasting all these reviews from Goodreads didn't seem like a good idea - especially if you want to repeat the task every year.
 
 What's the obvious answer to avoid repetition? Well, if you're a programmer, it's *automation*. Moreover, this seemed like a nice little project to learn web scraping. So, I wrote a python script to automate this task. This blog expands upon my learnings and explains the script in detail. If you directly want to access the script, please visit this <a href='https://github.com/ankitmodi/year_end_book_blog_using_python/blob/main/main.py' target='_blank'>link</a>. Keep reading if you're new to web-scraping or python.
 
@@ -310,6 +310,6 @@ We loop over the book list in *Line 13-43* and create the markdown paragraph for
 These paragraphs are created for each book in the *book_list*.
 <br><br>
 
-That's it. Your markdown file is created. The file is ready to be copied and pasted in your Jekyll blog (typically inside the *_posts* folder). You're set to share your books and reviews with your friends now!
+That's it. Your markdown file is created. The file is ready to be copied and pasted in your Jekyll blog (typically inside the *_posts* folder). See [this blog](https://ankitmodi.github.io/my-year-in-books-2020/) for the final output. You're set to share your books and reviews with your friends now!
 
 Keep reading & keep sharing!
