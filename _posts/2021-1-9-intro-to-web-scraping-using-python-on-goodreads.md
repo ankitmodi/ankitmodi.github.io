@@ -4,10 +4,12 @@ title: Scraping Goodreads to create your year-end blog on books &#58; An intro t
 categories: Technology
 css: highlights
 ---
+If you directly want to access the script, please visit this <a href='https://github.com/ankitmodi/year_end_book_blog_using_python/blob/main/main.py' target='_blank'>link</a>.
+
 
 I like reading books and writing reviews on Goodreads. And I wanted to create <a href='https://ankitmodi.github.io/my-year-in-books-2020/' target='_blank'>a year-end blog post</a> to share those books and reviews. However, copy-pasting all these reviews from Goodreads didn't seem like a good idea - especially if you want to repeat the task every year.
 
-What's the obvious answer to avoid repetition? Well, if you're a programmer, it's *automation*. Moreover, this seemed like a nice little project to learn web scraping. So, I wrote a python script to automate this task. This blog expands upon my learnings and explains the script in detail. If you directly want to access the script, please visit this <a href='https://github.com/ankitmodi/year_end_book_blog_using_python/blob/main/main.py' target='_blank'>link</a>. Keep reading if you're new to web-scraping or python.
+What's the obvious answer to avoid repetition? Well, if you're a programmer, it's *automation*. Moreover, this seemed like a nice little project to learn web scraping. So, I wrote a python script to automate this task. This blog expands upon my learnings and explains the script in detail.
 
 Note that I am using *python3* in this script.
 
