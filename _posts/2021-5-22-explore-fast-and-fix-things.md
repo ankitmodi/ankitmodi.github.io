@@ -5,11 +5,11 @@ categories: Technology
 ---
 ### because *Move Fast & Break Things* doesn't work in Healthcare
 
-Building Health Tech has its nuances & challenges. You can't build it like other software. You certainly can't build fast & break things in healthcare.
+Building Health Tech has its nuances & challenges. You can't build it like other software. You certainly can't break things while building health tech.
 
-This philosophy is unique to software engineering. You would rarely see it applied in other engineering disciplines. But with healthcare, you can't follow it even while building software. Why is it so? This blog answers it.
+This philosophy is unique to software engineering. You would rarely see it applied in other engineering disciplines. But with healthcare, you can't follow it even while doing software engineering. Why is it so? That's what this blog tries to answer.
 
-Let's start with understanding what does "Move fast & Break Things" stand for?
+Let's start with understanding what "Move fast & Break Things" stands for.
 
 ## 1. Move fast & Break Things (MFBT)
 
@@ -17,13 +17,15 @@ Let's start with understanding what does "Move fast & Break Things" stand for?
 
 MFBT is an ideology that backs speedy delivery of software and fast iteration of development. It means that even if you break things down, that’s okay - as long as you’re faster than your competitors in rebuilding it. The speed of shipping code & features is paramount. The idea is to fail fast & fail often.
 
-The mantra advocates getting it out there and see if it works. Learn from mistakes & keep iterating.
+This mantra advocates getting it out there and see if it works. Learn from mistakes & keep iterating.
 
 ### The Bug Cost in software development
 
 It's easy to see why MFBT works so well with software development. It’s because the bug cost (the monetary loss that the bug causes) is low in the virtual world.
 
-Broke your library management system? No worries - engineers will night the bug out. That fancy feature of your new app is throwing tantrums? Bet on your engineering team to debug it within a week.
+Broke your library management system? No worries - engineers will night the bug out.
+
+Is the fancy feature of your new app throwing tantrums? Bet on your engineering team to debug it within a week.
 
 <center>
 <figure>
@@ -77,7 +79,20 @@ Does the bug cost for writing every new software lie at the bottom of this chart
 
 Can you think of examples where the software accompanied a very costly project thereby taking its bug cost higher?
 
-##### The Apollo guidance computer
+..
+
+..
+
+..
+
+I insist. Think of an example before scrolling down!
+
+..
+
+..
+
+..
+##### Apollo guidance computer
 
 How about *The Apollo guidance computer* - the software in the spaceflight that first landed humans on the Moon? Imagine the bug-cost if the mission failed due to a software bug.
 
@@ -95,7 +110,9 @@ Having seen a counter example, let's jump to healthcare now.
 
 ### Philosophy behind the mantra
 
-The principle of *"First, do no harm"* is central to clinical practice & medical education. There are debates about the origin of this axiom and its feasibility in practice. But in general, we can conclude that the element of recklessness arising due to speed of execution is a big no in healthcare. This principle is at loggerheads with software engineering's *"Move fast & break things"*.
+The principle of *"First, do no harm"* is central to clinical practice & medical education. There are debates about the origin of this axiom and its feasibility in practice. But in general, we can conclude that the element of recklessness arising due to speed of execution is a big no in healthcare.
+
+This principle is at loggerheads with software engineering's *"Move fast & break things"*.
 
 <center>
 <figure>
@@ -131,14 +148,16 @@ Bad change is very costly in health tech. More than the immediate benefits of go
 
 And it explains why health tech has not caught up with the rest of the world. Using what’s already working provides a safety cushion. The risk of drastic change might not be worth the rewards for healthcare professionals. And this fear is not wrongly placed. When you’re walking such a tight rope, it’s hard to adopt game-changing innovation.
 
-And that brings us to the new operating principle to build health tech.
+That brings us to the new operating principle to build health tech.
 
 
 ## 3. Explore Fast & Fix Things (EFFT)
 
 ### Philosophy behind the mantra
 
-Let's take a health tech example to understand the philosophy. Suppose you have developed state-of-the-art speech-to-text AI and want to use it to automate radiology reporting for Chest X-rays (CXR). Let's call it *Reportify*. It is aimed at reducing the manual effort wasted in typing out CXR reports. Let's understand both parts of this principle through the lens of *Reportify*.
+Let's take a health tech example to understand the philosophy. Suppose you have developed state-of-the-art speech-to-text AI and want to use it to automate radiology reporting for Chest X-rays (CXR).
+
+Let's call this application *Reportify*. Its goal is to reduce the manual effort wasted in typing out CXR reports. Let's understand both parts of this principle through the lens of *Reportify*.
 
 
 ### Explore Fast
@@ -168,9 +187,9 @@ The next point to ponder over is whether you can prioritize the speed of shippin
 
 In such scenarios, you must prioritize the seamless integration of your solution into the existing workflow. And make sure that during the initial days of deployment, the status-quo (existing workflow) is not affected even if your application goes down.
 
-There's another interesting reason for seamless integration with the status quo. Healthcare professionals are used to working in a certain way. And drastic changes bring an added overhead of re-training the medical staff. Minimal changes to the existing workflow are much appreciated.
+There's another interesting reasoning behind it. Healthcare professionals are used to working in a certain way. And drastic changes bring an added overhead of re-training the medical staff. Minimal changes to the existing workflow are much appreciated.
 
-Coming back to fixing things. We must build *Reportify* with utmost care & minutely track changes that are going into the application. That coupled with seamless integration will cover both bases.
+Coming back to fixing things - we must build *Reportify* with utmost care & minutely track changes that are going into the application. That coupled with seamless integration will cover both bases.
 
 1. There are fewer chances of bugs in the application as there's a balance between speed & caution.
 2. If *Reportify* still breaks down, seamless integration makes sure that the previous workflow is still working.
