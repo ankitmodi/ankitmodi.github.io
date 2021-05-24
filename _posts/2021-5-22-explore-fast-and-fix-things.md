@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Explore Fast & Fix Things&#58;
+title: Explore Fast & Fix Things
 categories: Technology
 ---
-### because "Move Fast & Break Things" doesn't work in Healthcare
+### because *Move Fast & Break Things* doesn't work in Healthcare
 
 Building Health Tech has its nuances & challenges. You can't build it like other software. You certainly can't build fast & break things in healthcare.
 
@@ -11,9 +11,11 @@ This philosophy is unique to Software engineering. You would rarely see it appli
 
 Let's start with understanding what does "Move fast & Break Things" stands for?
 
-### The philosophy behind MFBT (Move fast & Break Things)
+## 1. Move fast & Break Things (MFBT)
 
-MFBT is an ideology that backs speedy delivery of software and fast iteration of development. It means that even if you break things down, that’s okay - as long as you’re faster than your competitors in rebuilding it. The velocity of shipping code & features is paramount.
+### Philosophy behind the mantra
+
+MFBT is an ideology that backs speedy delivery of software and fast iteration of development. It means that even if you break things down, that’s okay - as long as you’re faster than your competitors in rebuilding it. The speed of shipping code & features is paramount. The idea is to fail fast & fail often.
 
 The mantra is to get it out there and see if it works. Learn from mistakes & keep iterating.
 
@@ -23,9 +25,7 @@ It's easy to see why MFBT works so well with software development. It’s becaus
 
 Broke your library management system? No worries - engineers will night the bug out. That fancy feature of your new app is throwing tantrums? Bet on your engineering team to debug it within a week.
 
-| ![]({{ site.url }}/images/explore_fast/software_bugs.jpeg) |
-|:--:|
-|*Software Bugs*|
+![]({{ site.url }}/images/explore_fast/software_bugs.jpeg)
 
 Note that I am talking about start-ups here. Of course, if Twitter or Gmail goes down, the bug cost for these companies is humongous.
 
@@ -72,16 +72,96 @@ How about *The Apollo guidance computer* - the software in the spaceflight that 
 
 NASA recently released the codebase on [GitHub](https://github.com/chrislgarry/Apollo-11/). The detailing in design and maintenance of code is immaculate ([Link](https://history.nasa.gov/computers/Ch2-6.html?mod=article_inline)). Every change was minutely tracked. It mimics the kind of planning done for projects like bridges & skyscrapers. It's because the bug cost is enormous.
 
-### Where does Healthcare lie in the bug cost chart?
+Having seen a counter example, let's jump to healthcare now.
 
-Healthcare lies at an interesting point between the two extremes. You are building software but with a significant bug cost. And that cost is not all monetary. When systems break down in healthcare, it can lead to lifelong impairments.
+## 2. *Primum non nocere* - First, do no harm!
 
-Imagine a medical exam routing system that broke down because an update was shipped in haste! It can cause significant delays in getting the right diagnosis which in extreme cases can lead to loss of life.
+### Philosophy behind the mantra
 
-Bad change is very costly in health tech. More than the immediate benefits of good change.
+The principle of *"First, do no harm"* is central to clinical practice & medical education. There are debates about the origin of this axiom and its feasibility in practice. But in general, we can conclude that the element of recklessness arising due to speed of execution is a big no in healthcare. This principle is at loggerheads with software engineering's *"Move fast & break things"*.
+
+| ![]({{ site.url }}/images/explore_fast/meme.jpeg) |
+|:--:|
+|*Software Development vs Healthcare*|
+
+As a health tech start-up, how do you navigate through this dilemma?
+
+What operating principle gives you a middle ground between these two conflicting beliefs?
+
+To answer it, let's first understand the bug cost analysis for health tech.
+
+### Health tech & the bug cost chart
+
+Health tech lies at an interesting point between the two extremes of building software & bridges. Health tech too comprises of building software but with a significant bug cost. And that cost is not all monetary. When systems break down in healthcare, it can lead to lifelong impairments.
+
+Imagine a medical exam routing system that broke down because an update was shipped in haste! It can cause delays in getting the right diagnosis which can lead to loss of life.
 
 | ![]({{ site.url }}/images/explore_fast/graph/graph-2.png) |
 |:--:|
 |*Health Tech & Apollo Mission in the bug cost chart*|
 
-And it explains why health tech has not caught up with the rest of the world. Using what’s already working provides a safety net. The risk of drastic change might not be worth the rewards for healthcare professionals. This fear is not wrongly placed. When you’re walking such a tight rope, it’s hard to adopt game-changing innovation.
+
+Bad change is very costly in health tech. More than the immediate benefits of good change.
+
+
+And it explains why health tech has not caught up with the rest of the world. Using what’s already working provides a safety cushion. The risk of drastic change might not be worth the rewards for healthcare professionals. And this fear is not wrongly placed. When you’re walking such a tight rope, it’s hard to adopt game-changing innovation.
+
+And that brings us to the new operating principle to build health tech.
+
+
+## 3. Explore Fast & Fix Things (EFFT)
+
+### Philosophy behind the mantra
+
+Let's take a health tech example to understand the philosophy. Suppose you have developed state-of-the-art speech-to-text AI and want to use it to automate radiology reporting for Chest X-rays (CXR). Let's call it *Reportify*. It is aimed at reducing the manual effort wasted in typing out CXR reports. Let's understand the first part of the principle through the lens of *Reportify*.
+
+
+### Explore Fast
+The challenge with healthcare is that something as simple as reporting is also non-standardized. There are multiple ways to report a CXR around the industry. For example:
+
+- Typing the report on personal editors (MS Word, Google Docs, etc.)
+- Dictating the report to assistants
+- Editing pre-filled reports
+- Using web-based tools to drag-n-drop common findings
+
+This is where *Explore Fast* becomes vital. You have to explore multiple pathways that radiologists take to arrive at the perfect solution.
+
+Here too, you've to build & iterate fast. But with a major difference. The build iterations are not happening on the same software or piece of code. You're building different software to plug your AI in these pathways to see what sticks. So instead of building fast, you've to prioritize exploring fast.
+
+| ![]({{ site.url }}/images/explore_fast/graph/graph-3.png) |
+|:--:|
+|*Iterating on Build vs Explore*|
+
+### Fix Things
+
+The next point to ponder over is whether you can prioritize the speed of shipping over building the right app? What happens if you build it fast, deploy at a clinic & things break down? Even a delay of a couple of days can cause catastrophe.
+
+In such scenarios, you must prioritize the seamless integration of your solution into the existing workflow. And make sure that during the initial days of deployment, the status-quo (existing workflow) is not affected even if your application goes down.
+
+There's another interesting reason for seamless integration with the status quo. Healthcare professionals are used to working in a certain way. And drastic changes bring an added overhead of re-training the medical staff. Minimal changes to the existing workflow are much appreciated.
+
+Coming back to fixing things. We must build *Reportify* with utmost care & minutely track changes that are going into the application. That coupled with seamless integration will cover both bases.
+
+1. There are fewer chances of bugs in the application as there's a balance between speed & caution.
+2. If *Reportify* still breaks down, seamless integration makes sure that the previous workflow is still working.
+
+
+
+
+### Summary
+
+You've to ruthlessly prioritize fixing things in the two scenarios:
+1. While exploring, if the feedback from a workflow is not positive, learn what's not working & fix it.
+2. When the application breaks down, act fast on debugging & fixing it
+
+ Gather learnings from each pathway and evolve them by fixing modules that aren't working.
+
+ Finally, when the application is stable and stakeholders are happy, you can think about revolutionizing reporting by bringing in more innovations and moving away from the previous workflow.
+
+Till then,
+
+ <center><b><i>Explore Fast & Fix Things</i></b></center>
+
+
+ <br>
+ <br>
