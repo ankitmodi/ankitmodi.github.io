@@ -2,6 +2,45 @@
 layout: default
 ---
 
+<section>
+    <h1 class="title">{{ site.name }}</h1>
+    <h3>{{ site.description }}</h3>
+</section>
+  <div class='container'>
+    {% for post in site.posts %}
+          <hr class="slender">
+          <article class='post-container' itemscope itemtype="http://schema.org/BlogPosting" role="article">
+            <header>
+              <h2 itemprop="name">
+                <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+                  {{ post.title }}
+                </a>
+              </h2>
+            </header>
+
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">
+                {{ post.date | date_to_long_string }}
+              </time>
+            </div>
+
+            <p class="description" itemprop="description">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+              {% if post.excerpt %}
+                  {{ post.excerpt | strip_html | strip_newlines | truncate: 250 }}
+              {% else %}
+                  {{ post.content | strip_html | strip_newlines | truncate: 250 }}
+              {% endif %}
+              </a>
+            </p>
+      </article>
+    {% endfor %}
+  </div>
+
+<!-- ---
+layout: default
+---
+
 <div class="posts">
 
   {% for post in site.posts %}
@@ -16,4 +55,4 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->

@@ -29,7 +29,7 @@ Is the fancy feature of your new app throwing tantrums? Bet on your engineering 
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/software_bugs.jpeg" width="400"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/software_bugs.jpeg" width="400"/>
 </figure>
 </center>
 
@@ -56,7 +56,7 @@ You can't *edit* pillars of the bridge if they have been misaligned.
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/misaligned_bridge.jpeg"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/misaligned_bridge.jpeg"/>
     <figcaption><i>Bugs in real life!</i></figcaption>
 </figure>
 </center>
@@ -70,7 +70,7 @@ Building software at startups and building bridges lie at the two extremes of bu
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/graph/graph-1.png"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-1.png"/>
     <figcaption><i>Two extremes of bug cost</i></figcaption>
 </figure>
 </center>
@@ -98,7 +98,7 @@ How about *The Apollo guidance computer* - the software in the spaceflight that 
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/Apollo11.jpeg" alt="apollo11" width="400"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/Apollo11.jpeg" alt="apollo11" width="400"/>
 </figure>
 </center>
 
@@ -116,7 +116,7 @@ This principle is at loggerheads with software engineering's *"Move fast & break
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/meme.jpeg" width="600"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/meme.jpeg" width="600"/>
     <figcaption><i>Software Development vs Healthcare</i></figcaption>
 </figure>
 </center>
@@ -137,7 +137,7 @@ Imagine a medical exam routing system that broke down because an update was ship
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/graph/graph-2.png"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-2.png"/>
     <figcaption><i>Health Tech & Apollo Mission in the bug cost chart</i></figcaption>
 </figure>
 </center>
@@ -175,7 +175,7 @@ Here too, you've to build & iterate fast. But with a major difference. The build
 
 <center>
 <figure>
-    <img src="{{ site.url }}/images/explore_fast/graph/graph-3.png"/>
+    <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-3.png"/>
     <figcaption><i>Iterating on Build vs Explore</i></figcaption>
 </figure>
 </center>

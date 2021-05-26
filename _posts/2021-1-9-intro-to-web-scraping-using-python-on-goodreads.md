@@ -71,16 +71,16 @@ The [*Selenium*](https://pypi.org/project/selenium/) package is used to automate
 *MAIN_URL* is the URL that we need to open in selenium. Follow the following steps to generate a similar URL for your profile:
 * Login into [Goodreads](https://www.goodreads.com/) and hit the *My Books* tab on the top left.
 
-![]({{ site.url }}/images/scraping_goodreads/my_books.png)
+![]({{ site.url }}/assets/images/scraping_goodreads/my_books.png)
 
 * Click on the *read* shelf
 
-![]({{ site.url }}/images/scraping_goodreads/read.png)
+![]({{ site.url }}/assets/images/scraping_goodreads/read.png)
 
 
 * Sort the book list by *date read*. Make sure that the sorting is in descending order. If not, click on *date read* again.
 
-![]({{ site.url }}/images/scraping_goodreads/sort_read.png)
+![]({{ site.url }}/assets/images/scraping_goodreads/sort_read.png)
 
 Notice how the URL is changing while following these steps. Copy the final URL and assign it to the *MAIN_URL* variable.
 
@@ -206,7 +206,7 @@ def get_rating_from_text(rating_text):
 
 By observing the Html source closely (see the picture below), we can see that most of the book-related data is stored in a table whose *id* is *'books'*. We extract that table in *line 14*.
 
-![]({{ site.url }}/images/scraping_goodreads/table_book.png)
+![]({{ site.url }}/assets/images/scraping_goodreads/table_book.png)
 
 Further, we extract all the rows from the table in *line 15*. We initialize *book_list* to store all the extracted data in *line 16*.
 
@@ -214,7 +214,7 @@ In *line 18-63*, we loop over all the rows/ books, create a dictionary to store 
 
 *Line 21-24* extracts the cover URL. Let's understand that piece of code. The rest of the code snippet works similarly to extract the title, book's URL, author name, etc. Let's look at the data format in the Html source code.
 
-![]({{ site.url }}/images/scraping_goodreads/cover_url.png)
+![]({{ site.url }}/assets/images/scraping_goodreads/cover_url.png)
 
 We can see that each book has multiple *td* objects (cover, title, author, etc.). *Line 22* takes the current book's *tr* object and finds the first *td* objects with *class 'cover'* in it. *Line 23* extracts the first *img* tag from the *td* object. *Line 24* extracts the image source (URL) and puts it in *book_dict*. We do similar extractions for the rest of the required fields.
 
@@ -295,7 +295,7 @@ def create_markdown(filtered_and_sorted_book_list, year, intro_para,
 
 We loop over the book list in *Line 13-43* and create the markdown paragraph for each book. Here's a screenshot to show how each book paragraph looks like:
 
-![]({{ site.url }}/images/scraping_goodreads/book_para1.png)
+![]({{ site.url }}/assets/images/scraping_goodreads/book_para1.png)
 
 *Line 14* assigns the current book dictionary to *curr_book* variable.
 
