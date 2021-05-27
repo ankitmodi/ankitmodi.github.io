@@ -1,12 +1,34 @@
-<!--- Header and nav template site-wide -->
+<!-- <header>
+    <nav class="group">
+	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/images/ankit.jpeg" alt="CH"></a>
+    {% assign my_array = "Archive,Stories,Technology,हिन्दी,About" | split: ',' %}
+    {% for nodename in my_array %}
+    	{% for node in site.pages %}
+    		{% unless node.exclude %}
+    		    {% if node.title == nodename and page.url == node.url %}
+    		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
+    		    {% elsif node.title == nodename and page.url != node.url %}
+    		      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
+    		    {% endif %}
+    	    {% endunless %}
+      	{% endfor %}
+    {% endfor %}
+	</nav>
+
+    {% include analytics.html %}
+</header> -->
+
+
 <header>
     <nav class="group">
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/images/ankit.jpeg" alt="CH"></a>
-	{% for node in site.pages %}
+    {% assign my_array = "Archive,Stories,Technology,हिन्दी,About" | split: ',' %}
+    {% assign sorted_pages = site.pages | sort: "order" %}
+	{% for node in sorted_pages %}
 		{% unless node.exclude %}
-		    {% if page.url == node.url %}
+		    {% if node.url == page.url and my_array contains node.title %}
 		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
-		    {% else %}
+		    {% elsif node.url != page.url and my_array contains node.title %}
 		      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
 		    {% endif %}
 	    {% endunless %}
@@ -15,21 +37,3 @@
 
     {% include analytics.html %}
 </header>
-
-
-
-
-<!--- Header and nav template site-wide -->
-<!-- <header>
-
-    <div class="group">
-      <a class="page-link" href="{{ site.baseurl }}/archive">Archive</a>
-      <a class="page-links" href="{{ site.baseurl }}/stories">Stories</a>
-      <a class="page-links" href="{{ site.baseurl }}/technology">Technology</a>
-      <a class="page-links" href="{{ site.baseurl }}/hindi">हिन्दी</a>
-      <a class="page-links" href="{{ site.baseurl }}/about">About</a>
-    </div>
-
-    {% include analytics.html %}
-
-</header> -->
