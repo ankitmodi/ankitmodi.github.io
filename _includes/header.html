@@ -1,39 +1,26 @@
-<!-- <header>
-    <nav class="group">
-	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/images/ankit.jpeg" alt="CH"></a>
-    {% assign my_array = "Archive,Stories,Technology,हिन्दी,About" | split: ',' %}
-    {% for nodename in my_array %}
-    	{% for node in site.pages %}
-    		{% unless node.exclude %}
-    		    {% if node.title == nodename and page.url == node.url %}
-    		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
-    		    {% elsif node.title == nodename and page.url != node.url %}
-    		      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
-    		    {% endif %}
-    	    {% endunless %}
-      	{% endfor %}
-    {% endfor %}
-	</nav>
-
-    {% include analytics.html %}
-</header> -->
-
-
 <header>
-    <nav class="group">
-	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/images/ankit.jpeg" alt="CH"></a>
-    {% assign my_array = "Archive,Stories,Technology,हिन्दी,About" | split: ',' %}
-    {% assign sorted_pages = site.pages | sort: "order" %}
-	{% for node in sorted_pages %}
-		{% unless node.exclude %}
-		    {% if node.url == page.url and my_array contains node.title %}
-		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
-		    {% elsif node.url != page.url and my_array contains node.title %}
-		      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
-		    {% endif %}
-	    {% endunless %}
-  	{% endfor %}
-	</nav>
 
-    {% include analytics.html %}
+  <nav class="group">
+    <a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/images/ankit.jpeg" alt="CH"></a>
+    <!-- <div>
+        <a href="{{site.baseurl}}/">{{ site.name }}</a>
+        <a href="">{{ site.description }}</a>
+    </div> -->
+
+    {% assign my_array = "Archives,Stories,Technology,हिन्दी,About" | split: ',' %}
+
+    {% assign sorted_pages = site.pages | sort: "order" %}
+
+    	{% for node in sorted_pages %}
+
+    	    {% if node.url == page.url and my_array contains node.title %}
+    	      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
+    	    {% elsif node.url != page.url and my_array contains node.title %}
+    	      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
+    	    {% endif %}
+
+    	{% endfor %}
+  </nav>
+  {% include analytics.html %}
+
 </header>

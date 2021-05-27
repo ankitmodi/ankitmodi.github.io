@@ -6,18 +6,14 @@ order: 4
 ---
 
 {% assign category_name = 'Hindi' %}
-<div class="posts">
-
+<ul class="content-listing ">
   {% for post in site.categories[category_name] %}
-    <article class="post">
-
-      <h3 class="h3Index"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-
-      <div class="excerpt-text">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+      <li class="listing">
+        <hr class="slender">
+        <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+        <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+        <div>{{ post.excerpt }}</div>
+        <a style="font-size: 20px;" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </li>
   {% endfor %}
-</div>
+</ul>
