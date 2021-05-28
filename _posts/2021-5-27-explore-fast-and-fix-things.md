@@ -151,58 +151,57 @@ That brings us to the new operating principle to build health tech.
 
 ## 3. Explore Fast & Fix Things (EFFT)
 
-### Philosophy behind the mantra
+Let's take a health tech example to understand this framework. Suppose you have developed a speech-to-text conversion algorithm and want to use it to automate diagnostic reporting.
 
-Let's take a health tech example to understand the philosophy. Suppose you have developed state-of-the-art speech-to-text AI and want to use it to automate radiology reporting for Chest X-rays (CXR).
-
-Let's call this application *Reportify*. Its goal is to reduce the manual effort wasted in typing out CXR reports. Let's understand both parts of this principle through the lens of *Reportify*.
+Let's call this product *Reportify*. It aims to reduce the manual effort in typing out diagnostic reports. Let's understand both parts *EFFT* principle through the lens of *Reportify*.
 
 
 ### Explore Fast
-The challenge with healthcare is that something as simple as reporting is also non-standardized. There are multiple ways to report a CXR around the industry. For example:
+The challenge with healthcare is that something as simple as reporting is also non-standardized. There are multiple pathways to report in the industry. For example:
 
 - Typing the report on personal editors (MS Word, Google Docs, etc.)
 - Dictating the report to assistants
 - Editing pre-filled reports
 - Using web-based tools to drag-n-drop common findings
 
-This is where *Explore Fast* becomes vital. You have to explore multiple pathways that radiologists take to arrive at the perfect solution.
+This is where the *Explore Fast* principle becomes vital. You have to explore the multiple pathways taken by healthcare professionals to arrive at the perfect solution.
 
-Here too, you've to build & iterate fast. But with a major difference. The build iterations are not happening on the same software or piece of code. You're building different software to plug your AI in these pathways to see what sticks. So instead of building fast, you've to prioritize exploring fast.
+Like other products, you've to build & iterate fast in healthcare. But with a major difference. The build iterations are not happening on the same software or piece of code. You're building different software to plug your algorithm in different pathways to see what sticks.
+
+- *So instead of building fast, you've to prioritize exploring fast.*
 
 <br>
 <figure>
 <label for="mn-fig-6" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-6" class="margin-toggle">
-<span class="marginnote">Iterating on Build vs Iterating on Explore</span>
+<span class="marginnote">Software lifecycle: Iterating with <i>Build Fast</i> vs <i>Explore Fast</i> frameworks.</span>
 <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-3.png" alt="Iterating on Build vs Iterating on Explore">
 </figure>
 
 
 ### Fix Things
 
-The next point to ponder over is whether you can prioritize the speed of shipping over building the right app? What happens if you build it fast, deploy at a clinic & things break down? Even a delay of a couple of days can cause catastrophe.
+The next concern is whether to prioritize the speed of shipping or building the right app. What happens if you build it fast, deploy at a medical facility & things break down? Even a small delay can cause catastrophe.
 
-In such scenarios, you must prioritize the seamless integration of your solution into the existing workflow. And make sure that during the initial days of deployment, the status-quo (existing workflow) is not affected even if your application goes down.
+In such scenarios, you must prioritize the seamless integration of your solution into the existing workflow. And make sure that during the first few days of deployment, the status-quo (existing workflow) is not affected even if your application goes down.
 
-There's another interesting reasoning behind it. Healthcare professionals are used to working in a certain way. And drastic changes bring an added overhead of re-training the medical staff. Minimal changes to the existing workflow are much appreciated.
+There's another interesting reason behind it. Healthcare professionals are used to working in a certain way. And drastic changes bring an added overhead of re-training the medical staff.
 
-Coming back to fixing things - we must build *Reportify* with utmost care & minutely track changes that are going into the application. That coupled with seamless integration will cover both bases.
+- *Minimal changes to the existing workflow are much appreciated initially.*
+
+Once that is ensured, the next step is being agile about fixing things. As for *Reportify*, we must build it with utmost care & minutely track the changes that go into the application (think *Apollo guidance computer*). That coupled with seamless integration will cover both bases. Overall,
 
 1. There are fewer chances of bugs in the application as there's a balance between speed & caution.
-2. If *Reportify* still breaks down, seamless integration makes sure that the previous workflow is still working.
+2. If it still breaks down, seamless integration makes sure that the previous workflow is still working.
 
 
+### Philosophy behind the mantra
+To summarize, the central theme of *EFFT* is twofold:
+1. Prioritize exploring different pathways over speed of execution on one application.
+2. Strike a balance between coding fast and coding well.
 
+While exploring, gather learnings from each pathway. Learn what's not working & evolve pathways by fixing them. If and when the application breaks down, act fast on debugging & fixing it.
 
-### Summary
-
-You've to ruthlessly prioritize fixing things in the two scenarios:
-1. While exploring, if the feedback from a workflow is not positive, learn what's not working & fix it.
-2. When the application breaks down, act fast on debugging & fixing it.
-
- Gather learnings from each pathway and evolve them by fixing modules that aren't working.
-
- Finally, when the application is stable and stakeholders are happy, you can think about revolutionizing reporting by bringing in more innovations and moving away from the previous workflow.
+Finally, when the application is stable and stakeholders are happy, you can think about revolutionizing reporting (for *Reportify*) by bringing in more innovations and moving away from the previous workflow.
 
 Till then,
 
