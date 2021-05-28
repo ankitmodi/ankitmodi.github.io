@@ -27,11 +27,12 @@ Broke your library management system? No worries - engineers will night the bug 
 
 Is the fancy feature of your new app throwing tantrums? Bet on your engineering team to debug it within a week.
 
-<center>
+<br>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/software_bugs.jpeg" width="400"/>
+<label for="mn-fig-1" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-1" class="margin-toggle">
+<span class="marginnote">Bugs in Software Engineering</span>
+<img src="{{ site.url }}/assets/images/explore_fast/software_bugs.jpeg" alt="Bugs in Software Engineering">
 </figure>
-</center>
 
 Note that I am talking about start-ups here. Of course, if Twitter or Gmail goes down, the bug cost for these companies is humongous.
 
@@ -53,13 +54,13 @@ Unlike the virtual world, the real world doesn't have the option to *Edit*. You 
 
 You can't *edit* pillars of the bridge if they have been misaligned.
 
-
-<center>
+<br>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/misaligned_bridge.jpeg"/>
-    <figcaption><i>Bugs in real life!</i></figcaption>
+<label for="mn-fig-1" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-1" class="margin-toggle">
+<span class="marginnote">Bugs in real life!</span>
+<img src="{{ site.url }}/assets/images/explore_fast/misaligned_bridge.jpeg" alt="Bugs in real life!">
 </figure>
-</center>
+
 
 The bug cost to go back and build it again is humongous. That's because a major chunk of costs to build software is comprised of man hours. While in the real world, the cost of land, raw materials & machinery counts for more.
 
@@ -67,13 +68,11 @@ The bug cost to go back and build it again is humongous. That's because a major 
 
 Building software at startups and building bridges lie at the two extremes of bug cost.
 
-
-<center>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-1.png"/>
-    <figcaption><i>Two extremes of bug cost</i></figcaption>
+<label for="mn-fig-2" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-2" class="margin-toggle">
+<span class="marginnote">Two extremes of bug cost</span>
+<img src="{{ site.url }}/assets/images/explore_fast/graph/graph-1.png" alt="Two extremes of bug cost">
 </figure>
-</center>
 
 Does the bug cost for writing every new software lie at the bottom of this chart?
 
@@ -92,15 +91,16 @@ I insist. Think of an example before scrolling down!
 ..
 
 ..
-##### Apollo guidance computer
+### Apollo guidance computer
 
 How about *The Apollo guidance computer* - the software in the spaceflight that first landed humans on the Moon? Imagine the bug-cost if the mission failed due to a software bug.
 
-<center>
+<br>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/Apollo11.jpeg" alt="apollo11" width="400"/>
+<label for="mn-fig-3" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-3" class="margin-toggle">
+<span class="marginnote">The Apollo 11 Mission</span>
+<img src="{{ site.url }}/assets/images/explore_fast/Apollo11_2.png" alt="The Apollo 11 Mission">
 </figure>
-</center>
 
 NASA recently released the codebase on [GitHub](https://github.com/chrislgarry/Apollo-11/). The detailing in design and maintenance of code is immaculate ([Link](https://history.nasa.gov/computers/Ch2-6.html?mod=article_inline)). Every change was minutely tracked. It mimics the kind of planning done for projects like bridges & skyscrapers. It's because the bug cost is enormous.
 
@@ -114,12 +114,12 @@ The principle of *"First, do no harm"* is central to clinical practice & medical
 
 This principle is at loggerheads with software engineering's *"Move fast & break things"*.
 
-<center>
+<br>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/meme.jpeg" width="600"/>
-    <figcaption><i>Software Development vs Healthcare</i></figcaption>
+<label for="mn-fig-4" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-4" class="margin-toggle">
+<span class="marginnote">Software Development vs Healthcare</span>
+<img src="{{ site.url }}/assets/images/explore_fast/meme.jpeg" alt="Software Development vs Healthcare">
 </figure>
-</center>
 
 
 As a health tech start-up, how do you navigate through this dilemma?
@@ -134,14 +134,12 @@ Health tech lies at an interesting point between the two extremes of building so
 
 Imagine a medical exam routing system that broke down because an update was shipped in haste! It can cause delays in getting the right diagnosis which can lead to loss of life.
 
-
-<center>
+<br>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-2.png"/>
-    <figcaption><i>Health Tech & Apollo Mission in the bug cost chart</i></figcaption>
+<label for="mn-fig-5" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-5" class="margin-toggle">
+<span class="marginnote">Health Tech & Apollo Mission in the bug cost chart</span>
+<img src="{{ site.url }}/assets/images/explore_fast/graph/graph-2.png" alt="Health Tech & Apollo Mission in the bug cost chart">
 </figure>
-</center>
-
 
 Bad change is very costly in health tech. More than the immediate benefits of good change.
 
@@ -172,13 +170,12 @@ This is where *Explore Fast* becomes vital. You have to explore multiple pathway
 
 Here too, you've to build & iterate fast. But with a major difference. The build iterations are not happening on the same software or piece of code. You're building different software to plug your AI in these pathways to see what sticks. So instead of building fast, you've to prioritize exploring fast.
 
-
-<center>
+<br>
 <figure>
-    <img src="{{ site.url }}/assets/images/explore_fast/graph/graph-3.png"/>
-    <figcaption><i>Iterating on Build vs Explore</i></figcaption>
+<label for="mn-fig-6" class="margin-toggle">⊕</label><input type="checkbox" id="mn-fig-6" class="margin-toggle">
+<span class="marginnote">Iterating on Build vs Iterating on Explore</span>
+<img src="{{ site.url }}/assets/images/explore_fast/graph/graph-3.png" alt="Iterating on Build vs Iterating on Explore">
 </figure>
-</center>
 
 
 ### Fix Things
@@ -209,7 +206,7 @@ You've to ruthlessly prioritize fixing things in the two scenarios:
 
 Till then,
 
- <center><h1><i>Explore Fast & Fix Things</i></h1></center>
+* ## Explore Fast & Fix Things
 
 
  <br>
