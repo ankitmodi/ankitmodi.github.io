@@ -15,7 +15,7 @@ My hobbies are reading, writing, cricket, football & music - in that order.
 
 I agree that Sachin Tendulkar, Lionel Messi & Roger Federer are the best in Cricket, Football & Tennis respectively. Still, my fandom belongs to Rahul Dravid, Cristiano Ronaldo & Rafael Nadal. Can't help it!
 
-If you're a Rahul Dravid fan, then we should hang out soon. If you are also interested in Stoic philosophy and writings, then we’re best friends already.
+If you're a Rahul Dravid fan, then we should hang out soon. If you are also into Stoic philosophy and writings, then we’re best friends already.
 
 <!-- ### Contact me
 
