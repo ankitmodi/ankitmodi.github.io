@@ -9,7 +9,7 @@ Hey,
 
 I'm Ankit Modi - currently residing in Mumbai, India.
 
-My professional interests lie at the junction of healthcare and technology. I am a founding member & Product Manager at [Qure.ai](https://qure.ai/). I'm working on building experiences that integrate AI seamlessly with radiology.
+My professional interests lie at the junction of healthcare and technology. I am a founding member & Product Manager at [Qure.ai](https://qure.ai/). I'm working on building AI powered radiology experiences.
 
 My hobbies are reading, writing, cricket, football & music - in that order.
 
