@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <a href="/" class="brand">{{ .Site.Title }}</a>
+                <div class="menu">
+                    <a href="/">Home</a>
+                    <a href="/posts/">Archive</a>
+                    <a href="/hindi/">Hindi</a>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        {{ partial "footer.html" . }}
+    </div>
+</body>
+
+</html>

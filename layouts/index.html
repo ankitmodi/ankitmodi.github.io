@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="post-list-container">
+    {{ range (where .Site.RegularPages "Section" "posts") }}
+    <article class="post-item">
+        <a href="{{ .RelPermalink }}" class="post-title">{{ .Title }}</a>
+        <div class="post-meta">{{ .Date.Format "January 2, 2006" }}</div>
+        <div class="post-summary">
+            {{ if .Params.excerpt }}
+            {{ .Params.excerpt }}
+            {{ else }}
+            {{ $p := findRE "(?s)<p>.*?</p>" .Content 1 }}
+            {{ if gt (len $p) 0 }}
+            {{ index $p 0 | plainify | truncate 300 }}
+            {{ else }}
+            {{ .Summary | plainify | truncate 300 }}
+            {{ end }}
+            {{ end }}
+        </div>
+        <a href="{{ .RelPermalink }}" class="read-more">Read More</a>
+    </article>
+    {{ end }}
+</section>
+{{ end }}

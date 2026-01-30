@@ -1,0 +1,13 @@
+baseURL = 'https://ankitmodi.github.io/'
+languageCode = 'en-us'
+title = 'Ankit Modi'
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 50
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[permalinks]
+  posts = "/:slug/"

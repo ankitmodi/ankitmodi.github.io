@@ -1,0 +1,86 @@
+---
+layout: post
+title: My Year in Books - 2019
+date: 2020-12-14
+draft: false
+---
+
+Here are the books that I read this year - some were delightful and some all right. I am listing them in order of my ratings (best-first):
+
+
+<img src="/assets/images/2019_books/2019_overview.png" alt="2019 Books Overview" style="width: 100%; height: auto; display: block; margin: 1rem 0;">
+
+### <a href='https://www.goodreads.com//book/show/36576608-flowers-for-algernon' target='_blank'>1. Flowers for Algernon</a>
+<img src="/assets/images/2019_books/01.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/11072.Daniel_Keyes' target='_blank'>Daniel Keyes</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+This book is about a journey from little to extreme intelligence and back-forth. It will make you ride a sinusoidal wave of emotions - a wave sprinkled with humor and philosophy. It made me remember this couplet from Sahir Ludhiyanvi: <br/> <br/> ये  महलों, ये तख्तों, ये ताजों की दुनिया, <br/> ये इंसान के दुश्मन समाजों की दुनिया, <br/> ये दौलत के भूखे रवाजों की दुनिया, <br/> ये दुनिया अगर मिल भी जाए तो क्या है | <br/> <br/> Charlie Gordon will make you a little more kinder than before you met him.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/25733573-reasons-to-stay-alive' target='_blank'>2. Reasons to Stay Alive</a>
+<img src="/assets/images/2019_books/02.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/76360.Matt_Haig' target='_blank'>Matt Haig</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+Reasons to Stay Alive is a deeply personal account of depression. Matt Haig has given simple and beautiful explanations around the 'the black dog'. You get to know how the simplest of tasks become so challenging due to 'the monster'. This book will make you more compassionate towards depressives.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/91981.The_Dragonbone_Chair' target='_blank'>3. The Dragonbone Chair (Memory, Sorrow, and Thorn, #1)</a>
+<img src="/assets/images/2019_books/03.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/6587.Tad_Williams' target='_blank'>Tad Williams</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+This is an epic fantasy with a deeply immersive world and some very engaging characters. The conversations were delightful to read. <br/> However, what prevents me from giving this book a 5-star rating is the slow build-up. I was warned about it before picking the book. The advice of not dismissing it before 200 pages really made me stick to it. And it was well worth the effort. Looking forward to the next books in the series.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/25815381-a-book-of-simple-living' target='_blank'>4. A Book of Simple Living: Brief Notes from the Hills</a>
+<img src="/assets/images/2019_books/04.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/46603.Ruskin_Bond' target='_blank'>Ruskin Bond</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+This book is a collection of Ruskin Bond's intimate and valuable notes on life. These notes show that his is a life well lived. <br/> Watch out for the beautiful descriptions of a slow paced life in the hills of the Himalayas.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/11254937-on-writing' target='_blank'>5. On Writing: A Memoir of the Craft</a>
+<img src="/assets/images/2019_books/05.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/3389.Stephen_King' target='_blank'>Stephen King</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+Stephen King gives sound advice on writing. He manages to prevent it from getting boring by peppering humor over the pages. <br/> The suggestions can be generalized for becoming a better communicator (on paper). It would affect not only your stories and novels but also your everyday emails, letters & chats. In fact, it is currently affecting the writing of this review. <br/> This book will inspire you to write again.
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/33208143' target='_blank'>6. निर्मला</a>
+<img src="/assets/images/2019_books/06.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/5989103.Munshi_Premchand' target='_blank'>Munshi Premchand</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+मुंशी प्रेमचंद की लगभग सारी कहानियों सामाजिक बुराइयों पर कठोराघात करती हैं। निर्मला, बेमेल विवाह के कारण उत्पन्न कठिनाइयों का बहुत ही मार्मिक चित्रण है। कहानी 120 वर्ष पुरानी है, पर आज भी उतनी ही प्रासंगिक है।
+<br clear="all"><br>
+
+
+
+### <a href='https://www.goodreads.com//book/show/11797471-the-idea-factory' target='_blank'>7. The Idea Factory: Bell Labs and the Great Age of American Innovation</a>
+<img src="/assets/images/2019_books/07.jpg" alt="cover image" height='300' width='200px' style='float:left; padding-right:20px; padding-bottom:5px; padding-top:5px'>
+Author: <a href='https://www.goodreads.com//author/show/5808423.Jon_Gertner' target='_blank'>Jon Gertner</a>
+<br>
+My rating: ★★★★☆
+<br><br>
+
+<br clear="all"><br>

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+        <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </header>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+
+    <footer>
+        <p><a href="/">← Back to Home</a></p>
+    </footer>
+</article>
+{{ end }}
