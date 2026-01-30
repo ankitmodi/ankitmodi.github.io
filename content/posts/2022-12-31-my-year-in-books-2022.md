@@ -3,7 +3,7 @@ layout: post
 title: My Year in Books - 2022
 excerpt: Here's what I read in 2022 - in order of what I liked most.
 image:
-path: "{{ site.url }}/assets/images/2022_books/2022_overview.png"
+  path: "{{ site.url }}/assets/images/2022_books/2022_overview.png"
 date: 2022-12-31
 draft: false
 ---

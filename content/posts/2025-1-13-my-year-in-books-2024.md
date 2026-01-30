@@ -3,7 +3,7 @@ layout: post
 title: My Year in Books - 2024
 excerpt: Here's what I read in 2024 - in order of what I liked most.
 image:
-path: "{{ site.url }}/assets/images/2024_books/2024_overview.png"
+  path: "{{ site.url }}/assets/images/2024_books/2024_overview.png"
 date: 2025-01-13
 draft: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: My Year in Books - 2021
 excerpt: Here's what I read in 2021 - in order of what I liked most.
 image:
-path: /assets/images/2021_books/2021_overview.png
+  path: /assets/images/2021_books/2021_overview.png
 date: 2021-12-31
 draft: false
 ---

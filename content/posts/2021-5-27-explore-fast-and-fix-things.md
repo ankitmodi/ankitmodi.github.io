@@ -4,7 +4,7 @@ title: Explore Fast & Fix Things
 categories: Technology
 excerpt: Building Health Tech has its nuances & challenges. You can't build it like other software. You certainly can't break things while building health tech. This philosophy is unique to software engineering. You would rarely see it applied in other engineering disciplines. But with healthcare, you can't follow it even while doing software engineering. Why is it so? That's what this blog tries to answer.
 image:
-path: assets/images/explore_fast/graph/graph-3.png
+  path: assets/images/explore_fast/graph/graph-3.png
 date: 2021-05-27
 draft: false
 ---

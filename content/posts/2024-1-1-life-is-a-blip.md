@@ -4,7 +4,7 @@ title: Life is a blip!
 categories: Stories
 excerpt: “What is Death?” Countless philosophers, religions, and intellectuals have pondered over this question throughout history. What exactly is death? Does it have its own existence, or is it merely an absence of life?
 image:
-path: assets/images/2024_life_is_a_blip/lifeBlip.png
+  path: assets/images/2024_life_is_a_blip/lifeBlip.png
 date: 2024-01-01
 draft: false
 ---
